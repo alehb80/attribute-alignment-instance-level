@@ -1,0 +1,286 @@
+35mm equivalent focal length max
+35mm equivalent focal length min
+af assist beam
+af assist lamp
+af illuminator
+af modes
+af point selection
+af system points
+afarea mode
+afarea modes
+all
+aspect ratio
+audio
+audio formats
+audio formats supported
+audio recording device
+audio recording format
+auto focus
+auto focus af assist beam
+auto focus af points
+auto focus af points selection
+auto focusing af modes
+autofocus
+autofocus af
+autofocus system
+batteries
+battery
+battery chemistry
+battery life
+battery life cipa standard
+battery life max
+battery model
+battery model supported
+battery technology
+battery type
+brand
+brand name
+builtin memory
+builtin microphone
+camera color
+camera colour
+camera pixel count
+camera resolution
+camera shutter speed
+camera shutter speed max
+camera shutter speed min
+camera shutter type
+camera style
+camera type
+card format
+card slot
+color
+color filter
+colour
+colour filter type
+colour of product
+compatible battery
+compatible lenses
+compatible memory cards
+compensation
+depth
+depth inches
+digital video format
+digital zoom
+dimension
+dimensions
+dimensions w x d x h
+dimensions w x h x d
+dimensions wxhxd
+display
+display screen
+display screen type
+display size
+display technology
+display type
+dynamic af mode
+effective megapixel count
+effective megapixels
+effective pixels
+exposure compensation
+exposure control
+exposure modes
+exposure parameters
+fastest shutter speed
+file format
+file formats
+file system
+flash exposure correction
+flash memory form factor
+focal length
+focal length 35mm equivalent
+focal length equivalent to 35mm
+focal length equivalent to 35mm camera
+focal length max
+focal length min
+focal length range ff
+focal length tele
+focal length wide
+focus
+focus mode
+focus modes
+focus point
+focus type
+focusarea selection
+frame rate
+full hd
+hd movie mode
+hd recording format
+height
+height inches
+highest standard iso sensitivity
+humidity
+image format
+image formats supported
+image ratio
+image ratio wh
+image resolutions
+image sensor
+image sensor format
+image sensor size
+image sensor size w x h
+image sensor type
+image size at aspect ratio
+image size pixels
+inbuilt memory
+installed memory
+interchangeable lens camera format
+internal memory
+iso max
+iso min
+iso rating
+iso sensitivity
+iso sensitivity max
+iso sensitivity min
+iso sensitivity recommended exposure index
+iso sensitivity standard output sensitivity
+iso speeds
+language supported
+languages
+languages support
+languages supported
+lcd display
+lcd display size (inches)
+lcd display size inches
+lcd screen size
+lcd screen size inch
+lcd size
+lcd viewer
+lens
+lens mount
+lens mount interface
+lens system mounting
+lens type
+light exposure control
+light exposure correction
+light exposure modes
+light sensitivity
+light sensitivity iso
+light sensitivity max
+longest shutter speed
+lowest standard iso sensitivity
+manufacturer
+manufacturers warranty hardware
+max focal length
+max image resolution
+max resolution
+max shutter speed
+max video resolution24 fps minimum
+maximum focal length 35mm film equiv
+maximum image resolution
+maximum shutter speed
+maximum video capture resolution
+maximum video resolution
+megapixel
+megapixel range
+megapixels
+memory card support
+memory card type
+memory type
+menu languages
+microphone
+min focal length
+min shutter speed
+minimum focal length 35mm film equiv
+minimum shutter speed
+monitor
+monitor size
+motion jpeg frame rate
+movie audio recording device
+movie audio recording format
+movie file format
+movie mode
+movies
+normalizeddigital zoom
+normalizedoptical zoom
+number of effective pixels
+number of focus points
+operating humidity range
+operating relative humidity hh
+optical sensor
+optical sensor resolution in megapixel
+optical sensor size
+optical sensor type
+optical zoom
+optical zoom range
+optical zoom x
+other focus features
+other resolution
+photo effects
+physical dimensions
+picture angle
+picture control
+picture control system
+pixel count
+pixels
+primary color
+product in inches l x w x h
+product name
+recording format
+red eye reduction
+redeye correction
+redeye reduction
+removable memory type
+resolution
+resolution at capture speed
+resolution megapixels
+scene modes
+screen size
+screen size inches
+screen type
+self timer
+self timer delay
+selftimer
+sensor
+sensor details
+sensor format
+sensor resolution
+sensor size
+sensor type
+sensor type size
+sensor typesize
+shortest shutter speed
+shutter
+shutter speed
+shutter speed max
+shutter speed min
+shutter type
+size
+slowest shutter speed
+special effects
+standard warranty
+still image file formats
+still image format
+still image resolution max
+still image resolutions
+still image type
+still picture aspect ratios
+storage media type
+storage type
+supplied battery
+supported aspect ratio
+supported aspect ratios
+supported languages
+total megapixels
+total pixelgross pixel
+total pixels
+video display resolution
+video format
+video formats supported
+video recording format
+video resolution
+video resolutions
+warranty
+warranty information
+warranty labor
+warranty parts
+warranty summary
+white balance
+white balance modes
+white balance presets
+white balancing
+width
+width inches
+working humidity
+zoom
+zoom range

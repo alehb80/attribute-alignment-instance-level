@@ -1,0 +1,4336 @@
+{
+    "ean14": {
+        "upc": 179,
+        "upceanisbn": 3,
+        "model": 11,
+        "ean13": 7
+    },
+    "upc": {
+        "ean14": 179,
+        "ean13": 361,
+        "ean": 51,
+        "style": 26,
+        "upceanisbn": 3,
+        "model": 28,
+        "serial number": 1,
+        "part number": 2,
+        "catalog number": 2,
+        "mpn": 2
+    },
+    "manufacturer": {
+        "brand": 738,
+        "lens mount": 10,
+        "model": 4,
+        "family line": 2,
+        "product name": 2
+    },
+    "brand": {
+        "manufacturer": 738,
+        "brand name": 57,
+        "lens mount": 425,
+        "lens type": 11,
+        "family line": 144,
+        "product name": 17,
+        "lens system mounting": 24,
+        "product number mpn": 6,
+        "interchangeable lens camera format": 3,
+        "model": 14,
+        "fits": 4,
+        "compatible brand": 3,
+        "style": 1,
+        "lens mount interface": 10,
+        "lens": 6
+    },
+    "product number mpn": {
+        "model": 117,
+        "mpn": 167,
+        "model no": 5,
+        "part number": 13,
+        "style": 3,
+        "product name": 2,
+        "product model": 1,
+        "brand": 6,
+        "model id": 3,
+        "camera type": 1,
+        "shutter speed": 3,
+        "max shutter speed": 1,
+        "color": 3,
+        "lens mount": 1,
+        "type": 1
+    },
+    "model": {
+        "product number mpn": 117,
+        "product model": 45,
+        "style": 20,
+        "model id": 172,
+        "series": 15,
+        "product name": 20,
+        "color": 1,
+        "manuf no": 18,
+        "upc": 28,
+        "lens tele mm": 1,
+        "focal length tele": 1,
+        "ean14": 11,
+        "mpn": 389,
+        "model no": 29,
+        "name": 2,
+        "field view": 3,
+        "family line": 2,
+        "manufacturer part number": 7,
+        "up to": 2,
+        "lens system mounting": 4,
+        "manufacturer": 4,
+        "ean13": 7,
+        "continuous advance fps": 1,
+        "upceanisbn": 4,
+        "processor": 1,
+        "image processor": 1,
+        "brand": 14,
+        "light sensitivity max": 8,
+        "product line": 4,
+        "interchangeable lens camera format": 2,
+        "iso speeds": 5,
+        "part number": 9,
+        "lens mount": 1,
+        "sku": 3
+    },
+    "camera body only": {
+        "camera type": 9,
+        "digital slr": 8
+    },
+    "camera type": {
+        "camera body only": 9,
+        "body type": 155,
+        "type": 179,
+        "category": 84,
+        "wifi": 7,
+        "video input type": 11,
+        "digital slr": 6,
+        "camera technology": 1,
+        "model no": 1,
+        "auto focus type": 1,
+        "description": 1,
+        "lens": 1,
+        "part number": 1,
+        "product number mpn": 1,
+        "special attribute": 2,
+        "features": 4,
+        "viewfinder type": 1,
+        "product type": 1
+    },
+    "effective megapixels": {
+        "megapixels": 174,
+        "optical sensor resolution in megapixel": 2,
+        "total pixels": 100,
+        "approx resolution": 2,
+        "maximum image resolution": 1,
+        "lcd screen resolution": 4,
+        "camera resolution": 1,
+        "display resolution numeric": 4,
+        "camera pixel count": 3,
+        "effective megapixel count": 1
+    },
+    "megapixels": {
+        "effective megapixels": 174,
+        "optical sensor resolution in megapixel": 392,
+        "total pixelgross pixel": 37,
+        "camera resolution": 362,
+        "effective pixels": 143,
+        "sensor resolution": 50,
+        "resolution": 432,
+        "effective megapixel count": 159,
+        "megapixel": 40,
+        "pixel count": 306,
+        "approx resolution": 156,
+        "pixel": 12,
+        "camera pixel count": 214,
+        "total resolution": 9,
+        "resolution megapixels": 41,
+        "total megapixels": 21,
+        "sensor details": 1,
+        "megapixel range": 15,
+        "effective resolution": 1,
+        "pixels": 5,
+        "camera effective pixels": 7,
+        "max aperture tele": 2,
+        "effective picture resolution": 2,
+        "burst rate": 1,
+        "total pixels": 2,
+        "image resolution": 6,
+        "text attribute": 3,
+        "normalizednumber image sensor pixels": 3
+    },
+    "maximum flash sync": {
+        "sync terminal": 12,
+        "max sync speed": 2,
+        "minimum shutter speed": 2,
+        "self timer": 10
+    },
+    "sync terminal": {
+        "maximum flash sync": 12,
+        "bulb shutter setting": 1,
+        "flash syncspeed": 6,
+        "continuous shooting": 3,
+        "max sync speed": 12,
+        "self timer": 22,
+        "flash sync speed": 6,
+        "flash sync terminal": 1,
+        "min shutter speed": 1
+    },
+    "maximum shutter speed": {
+        "shutter speed": 56,
+        "shortest shutter speed": 21,
+        "flash syncspeed": 4,
+        "shutter": 33,
+        "shutter speed max": 55,
+        "max shutter speed": 15,
+        "self timer": 94,
+        "shutter release": 1,
+        "fastest shutter speed": 3,
+        "longest shutter speed": 1,
+        "minimum shutter speed": 2,
+        "shutter speed min": 2
+    },
+    "shutter speed": {
+        "maximum shutter speed": 56,
+        "max shutter speed": 80,
+        "screen resolution": 13,
+        "min shutter speed": 2,
+        "shutter speeds": 7,
+        "shutter": 11,
+        "camera shutter speed": 3,
+        "shutter speed range": 5,
+        "self timer": 2,
+        "lens aperture": 2,
+        "slowest shutter speed": 6,
+        "max sync speed": 1,
+        "product number mpn": 3,
+        "shutter speed max": 1
+    },
+    "model id": {
+        "mpn": 45,
+        "model": 172,
+        "manuf no": 2,
+        "product name": 5,
+        "product model": 3,
+        "product number mpn": 3,
+        "series": 4
+    },
+    "mpn": {
+        "model id": 45,
+        "product number mpn": 167,
+        "sku": 48,
+        "model no": 54,
+        "part number": 32,
+        "style": 31,
+        "manufacturer part number": 11,
+        "model": 389,
+        "product model": 8,
+        "product name": 6,
+        "manuf no": 5,
+        "upc": 2,
+        "catalog number": 2
+    },
+    "optical sensor resolution in megapixel": {
+        "megapixels": 392,
+        "effective megapixels": 2,
+        "camera resolution": 47,
+        "effective megapixel count": 1,
+        "resolution": 29,
+        "pixel count": 10,
+        "camera pixel count": 16,
+        "shooting range focusing range": 1,
+        "approx resolution": 2,
+        "sensor resolution": 2,
+        "total pixels": 2,
+        "total pixelgross pixel": 12,
+        "effective pixels": 2,
+        "camera effective pixels": 6,
+        "megapixel": 1
+    },
+    "sensor format": {
+        "sensor size": 34,
+        "screen size": 6,
+        "image format": 21,
+        "lcd screen size": 4,
+        "interchangeable lens camera format": 46,
+        "lens mount": 4,
+        "sensor type size": 2,
+        "lens system mounting": 1,
+        "sensor typesize": 1,
+        "lcd viewer": 1
+    },
+    "sensor size": {
+        "sensor format": 34,
+        "lcd screen size": 58,
+        "lcd viewer": 23,
+        "optical sensor size": 51,
+        "image sensor size": 12,
+        "height inches": 9,
+        "effective sensor size": 12,
+        "sensor type size": 25,
+        "screen size": 14,
+        "focal length wide": 1,
+        "height": 3,
+        "picture angle": 4,
+        "sensor typesize": 6,
+        "number focus points": 4,
+        "autofocus points": 1,
+        "continuous advance fps": 2,
+        "lens wide mm": 2,
+        "image sensor size0": 1
+    },
+    "total pixelgross pixel": {
+        "megapixels": 37,
+        "optical sensor resolution in megapixel": 12,
+        "camera resolution": 14,
+        "total pixels": 3,
+        "megapixel": 1
+    },
+    "weight without battery": {
+        "weight": 14,
+        "temperature": 2,
+        "continuous shooting speed": 1,
+        "digital zoom": 1,
+        "depth": 1
+    },
+    "weight": {
+        "weight without battery": 14,
+        "max operating temperature": 1,
+        "normalizedweight": 23,
+        "lens wide mm": 14,
+        "focal length wide": 23,
+        "weight including battery": 27,
+        "weight inc batteries": 27,
+        "actual weight": 6,
+        "weight excl battery": 4,
+        "weight approximate": 3,
+        "optical zoom": 5,
+        "temperature": 13,
+        "operating temperature tt": 2,
+        "supported languages": 3,
+        "max shutter speed": 4,
+        "zoom": 3,
+        "number focus points": 16,
+        "continuous shooting speed": 6,
+        "height inches": 1,
+        "width": 1,
+        "iso sensitivity max": 1,
+        "iso max": 2
+    },
+    "optical sensor": {
+        "sensor type": 248,
+        "sensor": 38,
+        "sensor details": 40,
+        "optical sensor type": 21,
+        "image sensor": 52,
+        "image sensor type": 10
+    },
+    "sensor type": {
+        "optical sensor": 248,
+        "sensor details": 77,
+        "optical sensor type": 93,
+        "image sensor": 174,
+        "ccd image": 2,
+        "sensor": 113,
+        "image sensor type": 20,
+        "sensor typesize": 12,
+        "ccd": 3,
+        "dx format": 4,
+        "color filter": 2
+    },
+    "camera resolution": {
+        "megapixels": 362,
+        "optical sensor resolution in megapixel": 47,
+        "resolution": 30,
+        "approx resolution": 10,
+        "camera pixel count": 4,
+        "effective pixels": 1,
+        "sensor resolution": 7,
+        "total pixels": 17,
+        "effective megapixels": 1,
+        "total pixelgross pixel": 14,
+        "pixel count": 1,
+        "sensor photo detectors": 1,
+        "camera effective pixels": 1,
+        "megapixel": 1
+    },
+    "aspect ratio": {
+        "image ratio": 56,
+        "image ratio wh": 8,
+        "supported aspect ratio": 5,
+        "supported aspect ratios": 6,
+        "image size at aspect ratio": 3
+    },
+    "image ratio": {
+        "aspect ratio": 56,
+        "supported aspect ratio": 53,
+        "image ratio wh": 23,
+        "supported aspect ratios": 17,
+        "image size at aspect ratio": 6
+    },
+    "effective pixels": {
+        "megapixels": 143,
+        "total pixels": 54,
+        "approx resolution": 11,
+        "resolution": 2,
+        "camera resolution": 1,
+        "sensor resolution": 7,
+        "optical sensor resolution in megapixel": 2,
+        "gross pixels": 5,
+        "effective picture resolution": 1
+    },
+    "iso sensitivity": {
+        "light sensitivity": 27,
+        "light sensitivity iso": 70,
+        "iso rating": 100,
+        "iso speeds": 1,
+        "iso max": 17,
+        "iso speed range": 10,
+        "sensitivity": 3,
+        "iso sensitivity standard output sensitivity": 2,
+        "focal length tele": 3,
+        "iso range": 3,
+        "iso sensitivity max": 5
+    },
+    "light sensitivity": {
+        "iso sensitivity": 27,
+        "sensitivity": 32,
+        "iso rating": 30,
+        "iso speed rating": 1,
+        "light sensitivity iso": 3
+    },
+    "sensor details": {
+        "sensor type": 77,
+        "optical sensor": 40,
+        "megapixels": 1,
+        "image sensor type": 1,
+        "image sensor": 16,
+        "sensor": 4,
+        "optical sensor type": 2
+    },
+    "ae bracketing": {
+        "exposure compensation": 124,
+        "light exposure correction": 1
+    },
+    "exposure compensation": {
+        "ae bracketing": 124,
+        "flash compensation": 30,
+        "flash exposure compensation": 2,
+        "flash bracketing": 6,
+        "exposure control": 12,
+        "light exposure correction": 4,
+        "flash exposure correction": 1
+    },
+    "body type": {
+        "type": 80,
+        "camera type": 155
+    },
+    "type": {
+        "body type": 80,
+        "focus": 3,
+        "camera type": 179,
+        "auto focus": 25,
+        "category": 27,
+        "series": 3,
+        "product name": 1,
+        "video input type": 1,
+        "image stabilizer": 10,
+        "camera style": 13,
+        "parent product type": 1,
+        "viewfinder type": 3,
+        "image sensor": 2,
+        "optical sensor type": 1,
+        "select camera style": 1,
+        "product number mpn": 1
+    },
+    "light sensitivity iso": {
+        "iso rating": 88,
+        "iso sensitivity": 70,
+        "light sensitivity": 3,
+        "iso min": 1,
+        "iso max": 1,
+        "optical zoom": 1,
+        "digital zoom": 2,
+        "iso equivalent": 3,
+        "iso": 4
+    },
+    "iso rating": {
+        "light sensitivity iso": 88,
+        "iso sensitivity": 100,
+        "sensitivity": 17,
+        "light sensitivity": 30,
+        "iso speed rating": 5,
+        "light sensitivity max": 1,
+        "iso max": 12,
+        "iso sensitivity standard output sensitivity": 5,
+        "iso": 1,
+        "viewfinder coverage": 1,
+        "max shutter speed": 3,
+        "maximum expandable iso sensitivity": 2,
+        "iso range": 1,
+        "iso sensitivity max": 1,
+        "focal length tele": 4
+    },
+    "ean13": {
+        "upc": 361,
+        "style": 5,
+        "model": 7,
+        "ean14": 7
+    },
+    "optical sensor type": {
+        "sensor type": 93,
+        "optical sensor": 21,
+        "image sensor type": 8,
+        "image sensor": 26,
+        "sensor": 10,
+        "sensor details": 2,
+        "sensor typesize": 1,
+        "type": 1
+    },
+    "maximum fnumber": {
+        "aperture": 94,
+        "aperture range": 13,
+        "lens aperture": 31,
+        "lcd display size inches": 1,
+        "max aperture": 2,
+        "maximum aperture": 3
+    },
+    "aperture": {
+        "maximum fnumber": 94,
+        "lens aperture": 233,
+        "aperture range": 192,
+        "maximum aperture": 9,
+        "max aperture wide": 5,
+        "fnumber": 1,
+        "max aperture": 3,
+        "focus": 4
+    },
+    "display type": {
+        "screen type": 39,
+        "lcd display": 36,
+        "display technology": 7,
+        "lcd screen": 1,
+        "inch": 2,
+        "viewfinder type": 4,
+        "monitor type": 1,
+        "display": 3
+    },
+    "screen type": {
+        "display type": 39,
+        "lcd display": 14,
+        "display technology": 12,
+        "display": 11,
+        "viewfinder type": 9,
+        "display screen type": 10,
+        "viewfinder": 1,
+        "vari angle": 2,
+        "viewing screen type": 1
+    },
+    "exposure metering": {
+        "metering modes": 13,
+        "metering": 9,
+        "metering method": 9,
+        "exposure metering mode": 15,
+        "metering characteristics": 2
+    },
+    "metering modes": {
+        "exposure metering": 13,
+        "metering": 83,
+        "metering method": 50,
+        "exposure metering mode": 2,
+        "metering characteristics": 1,
+        "metering mode": 2,
+        "light metering": 1
+    },
+    "max operating temperature": {
+        "weight": 1,
+        "light sensitivity max": 88
+    },
+    "sensor resolution": {
+        "megapixels": 50,
+        "resolution": 13,
+        "camera pixel count": 16,
+        "effective megapixel count": 8,
+        "camera resolution": 7,
+        "optical sensor resolution in megapixel": 2,
+        "effective pixels": 7,
+        "optical sensor resolution": 8
+    },
+    "resolution": {
+        "megapixels": 432,
+        "optical sensor resolution in megapixel": 29,
+        "sensor resolution": 13,
+        "pixel count": 46,
+        "maximum image resolution": 1,
+        "screen resolution pixels": 8,
+        "max resolution": 3,
+        "camera resolution": 30,
+        "approx resolution": 4,
+        "effective pixels": 2,
+        "camera pixel count": 3,
+        "image sizing": 1,
+        "max image resolution": 3,
+        "image size pixels": 2,
+        "image resolutions": 2,
+        "text attribute2": 2,
+        "megapixel": 2,
+        "effective megapixel count": 8,
+        "maximum video capture resolution": 3
+    },
+    "effective megapixel count": {
+        "megapixels": 159,
+        "optical sensor resolution in megapixel": 1,
+        "sensor resolution": 8,
+        "resolution": 8,
+        "camera pixel count": 2,
+        "effective megapixels": 1,
+        "pixel count": 3
+    },
+    "lens aperture": {
+        "aperture": 233,
+        "aperture range": 41,
+        "maximum fnumber": 31,
+        "max aperture wide": 5,
+        "max aperture tele": 11,
+        "screen size": 1,
+        "fnumber": 8,
+        "shutter speed": 2,
+        "focus": 1
+    },
+    "max focal length": {
+        "focal length equivalent to 35mm": 150,
+        "35mm equivalent": 23,
+        "min focal length": 34,
+        "focal length equivalent to 35mm camera": 15,
+        "depth": 8,
+        "35mm equivalent focal length max": 3,
+        "focal length": 20,
+        "height": 1,
+        "width": 25,
+        "focal length 35mm equivalent": 2,
+        "focal length tele": 1,
+        "film lens equivalent 35mm": 1,
+        "lens tele mm": 2,
+        "focal length 35mm conversion still image 43": 2
+    },
+    "focal length equivalent to 35mm": {
+        "max focal length": 150,
+        "min focal length": 21,
+        "focal length 35mm equivalent": 43,
+        "focal length equivalent to 35mm camera": 20,
+        "focal length": 20,
+        "35mm equivalent focal length min": 3,
+        "35mm equivalent": 20,
+        "35mm equivalent focal length max": 2,
+        "film lens equivalent 35mm": 1,
+        "lens tele mm": 1,
+        "focal length 35mm conversion still image 43": 1
+    },
+    "aperture range": {
+        "maximum fnumber": 13,
+        "lens aperture": 41,
+        "aperture": 192,
+        "maximum aperture": 16,
+        "package_id": 1,
+        "max aperture": 4,
+        "fnumber": 5,
+        "number": 3
+    },
+    "continuous shots": {
+        "conitnous shots": 106,
+        "continuous shooting": 13,
+        "burst rate": 1
+    },
+    "conitnous shots": {
+        "continuous shots": 106,
+        "continuous shooting": 37,
+        "continuousburst shooting": 7,
+        "maximum frame rate": 3,
+        "frame advance rate": 1,
+        "continuous drive": 5
+    },
+    "memory card type": {
+        "compatible memory cards": 11,
+        "storage media type": 134,
+        "memory type": 177,
+        "card format": 81,
+        "memory card support": 2,
+        "storage type": 47,
+        "storage memory": 1,
+        "storage types": 1,
+        "connectivity": 1
+    },
+    "compatible memory cards": {
+        "memory card type": 11,
+        "memory type": 12,
+        "card format": 18,
+        "memory notes": 1,
+        "storage media type": 6,
+        "media": 6
+    },
+    "video display resolution": {
+        "video resolution": 36,
+        "frame ratevideo modes": 2,
+        "maximum video capture resolution": 36,
+        "max resolution": 1,
+        "max video resolution24 fps minimum": 1,
+        "video movie capture": 5
+    },
+    "video resolution": {
+        "video display resolution": 36,
+        "video resolutions": 1,
+        "maximum video capture resolution": 32,
+        "video movie capture": 64,
+        "maximum video resolution": 14,
+        "lcd screen resolution": 2,
+        "display resolution numeric": 4,
+        "movie mode": 1,
+        "file size": 6,
+        "max resolution": 1,
+        "hd videos": 1,
+        "max video resolution": 4,
+        "display resolution": 1,
+        "recording functions": 2,
+        "image resolutions": 2
+    },
+    "35mm equivalent": {
+        "max focal length": 23,
+        "focal length": 23,
+        "35mm equivalent focal length min": 1,
+        "focal length equivalent to 35mm": 20,
+        "focal length equivalent to 35mm camera": 18,
+        "focal length 35mm equivalent": 14,
+        "focal length equiv": 3,
+        "35mm equivalent focal length max": 4,
+        "film lens equivalent 35mm": 4,
+        "min focal length": 1,
+        "lens tele mm": 1,
+        "focal length 35mm conversion still image 43": 3
+    },
+    "video resolutions": {
+        "video resolution": 1,
+        "maximum video resolution": 8,
+        "maximum video capture resolution": 1,
+        "display resolution numeric": 2
+    },
+    "digital video format": {
+        "video format": 70,
+        "video": 1,
+        "file formats": 3,
+        "still image format": 2,
+        "video formats supported": 3,
+        "image recording format": 2
+    },
+    "video format": {
+        "digital video format": 70,
+        "movies": 5,
+        "recording formats": 1,
+        "video formats supported": 2,
+        "image format": 1,
+        "video": 1,
+        "video compression": 5,
+        "video output format": 1,
+        "format": 4,
+        "still image format": 2,
+        "movie": 2
+    },
+    "memory type": {
+        "compatible memory cards": 12,
+        "memory card type": 177,
+        "storage media type": 204,
+        "card format": 17,
+        "storage type": 35,
+        "memory card format": 2,
+        "compatible memory card": 2,
+        "memory card support": 3,
+        "sd": 8,
+        "storage media": 4,
+        "storage": 3,
+        "storage types": 8
+    },
+    "focal length range ff": {
+        "focal length": 26
+    },
+    "focal length": {
+        "focal length range ff": 26,
+        "focal length 35mm equivalent": 18,
+        "max focal length": 20,
+        "focal length equivalent to 35mm": 20,
+        "35mm equivalent focal length max": 7,
+        "focal length min": 8,
+        "35mm equivalent": 23,
+        "lens wide mm": 4,
+        "lens": 31,
+        "focal length max": 5,
+        "min focal length": 2,
+        "focal length equivalent to 35mm camera": 11,
+        "lens type": 3,
+        "focal length fmm": 5,
+        "focal length multiplier": 8,
+        "lens system": 2,
+        "35mm focal length equivalent": 4,
+        "focal length equiv": 1,
+        "35mm equivalent focal length min": 1,
+        "optical zoom": 3,
+        "lens sd": 1,
+        "picture angle": 3,
+        "focal length range": 2,
+        "weight pounds": 2,
+        "width": 2,
+        "lens focal length": 3,
+        "focal length 35mm conversion still image 43": 1
+    },
+    "focus": {
+        "type": 3,
+        "dedicated flash system": 4,
+        "auto focus": 2,
+        "lens aperture": 1,
+        "aperture": 4
+    },
+    "iso sensitivity max": {
+        "iso sensitivity min": 8,
+        "iso max": 27,
+        "focal length tele": 2,
+        "weight": 1,
+        "iso sensitivity": 5,
+        "iso rating": 1,
+        "lens tele mm": 1
+    },
+    "iso sensitivity min": {
+        "iso sensitivity max": 8,
+        "iso max": 2,
+        "iso min": 14,
+        "lens tele mm": 1,
+        "focal length tele": 3,
+        "operating temperature tt": 3,
+        "screen coverage": 11,
+        "field view": 13,
+        "viewfinder coverage": 1,
+        "optical zoom": 1,
+        "max shutter speed": 3,
+        "digital zoom": 1
+    },
+    "maximum video resolution": {
+        "video resolutions": 8,
+        "video movie capture": 3,
+        "video resolution": 14,
+        "maximum video capture resolution": 3,
+        "movie size": 5,
+        "display resolution numeric": 6,
+        "total pixels": 2
+    },
+    "megapixel": {
+        "megapixels": 40,
+        "approx resolution": 1,
+        "resolution": 2,
+        "optical sensor resolution in megapixel": 1,
+        "total pixelgross pixel": 1,
+        "camera resolution": 1
+    },
+    "sku": {
+        "mpn": 48,
+        "model no": 1,
+        "model": 3
+    },
+    "max shutter speed": {
+        "screen resolution": 144,
+        "shutter speed": 80,
+        "flash syncspeed": 3,
+        "screen resolution pixels": 2,
+        "maximum shutter speed": 15,
+        "shutter": 2,
+        "shutter speed max": 4,
+        "shutter speed min": 1,
+        "min shutter speed": 1,
+        "screen dots": 2,
+        "iso max": 1,
+        "weight": 4,
+        "iso rating": 3,
+        "product number mpn": 1,
+        "iso min": 6,
+        "focal length tele": 1,
+        "iso sensitivity min": 3,
+        "shortest shutter speed": 2
+    },
+    "screen resolution": {
+        "max shutter speed": 144,
+        "shutter speed": 13,
+        "screen resolution pixels": 7,
+        "image display resolution": 2,
+        "number dots": 1,
+        "lcd screen resolution": 3
+    },
+    "dimensions wxhxd": {
+        "dimensions": 28,
+        "size": 8,
+        "metrics": 3
+    },
+    "dimensions": {
+        "dimensions wxhxd": 28,
+        "dimensions mm": 14,
+        "size": 37,
+        "dimension": 1,
+        "height": 1,
+        "lcd screen size": 4
+    },
+    "auto focus": {
+        "type": 25,
+        "focus": 2,
+        "autofocus": 7,
+        "autofocus af": 17,
+        "autofocus points": 4,
+        "autofocus type": 3,
+        "macro mode": 2,
+        "autofocus system type": 3,
+        "auto focus type": 1
+    },
+    "image sizing": {
+        "still image resolution max": 28,
+        "max resolution": 23,
+        "resolution": 1,
+        "maximum image resolution": 3,
+        "max image size": 1,
+        "image resolutions": 3,
+        "max image resolution": 2
+    },
+    "still image resolution max": {
+        "image sizing": 28,
+        "max image resolution": 24,
+        "image resolutions": 14,
+        "max resolution": 8,
+        "maximum image resolution": 1,
+        "max image size": 1
+    },
+    "lcd screen size": {
+        "lcd viewer": 167,
+        "screen size": 151,
+        "lcd display size inches": 3,
+        "sensor size": 58,
+        "sensor format": 4,
+        "lcd size": 2,
+        "screen size inches": 9,
+        "viewfinder type": 3,
+        "normalizedinstalled memory": 1,
+        "lcd screen size inch": 4,
+        "dimensions": 4,
+        "viewing screen size": 2,
+        "depth": 9
+    },
+    "lcd viewer": {
+        "lcd screen size": 167,
+        "screen size": 83,
+        "lcd size": 4,
+        "sensor size": 23,
+        "viewing screen size": 2,
+        "display size": 2,
+        "sensor format": 1
+    },
+    "storage media type": {
+        "memory card type": 134,
+        "memory type": 204,
+        "storage types": 6,
+        "storage type": 6,
+        "storage media": 12,
+        "compatible memory cards": 6,
+        "removable memory type": 4
+    },
+    "lcd display size inches": {
+        "screen size": 90,
+        "lcd screen size": 3,
+        "maximum fnumber": 1,
+        "height inches": 6,
+        "flash range": 4,
+        "display screen": 16,
+        "lcd screen size inch": 1,
+        "optical zoom": 2,
+        "supported languages": 1
+    },
+    "screen size": {
+        "lcd display size inches": 90,
+        "lcd screen size": 151,
+        "display screen": 173,
+        "sensor format": 6,
+        "display size": 45,
+        "lcd size": 47,
+        "screen size inches": 67,
+        "lcd screen size inch": 38,
+        "monitor size": 1,
+        "lcd viewer": 83,
+        "height inches": 4,
+        "focal length wide": 1,
+        "lcd size in": 4,
+        "depth inches": 16,
+        "normalizedinstalled memory": 1,
+        "sensor size": 14,
+        "depth": 3,
+        "lens aperture": 1,
+        "optical sensor size": 11,
+        "lcd size inches": 2,
+        "focal length fmm": 12,
+        "focal length multiplier": 3,
+        "viewing screen size": 3,
+        "max aperture wide": 3
+    },
+    "maximum video capture resolution": {
+        "max video resolution": 1,
+        "video resolution": 32,
+        "video movie capture": 19,
+        "movie size": 3,
+        "iso max": 1,
+        "video resolutions": 1,
+        "maximum video resolution": 3,
+        "video display resolution": 36,
+        "video clip length": 3,
+        "max video resolution24 fps minimum": 1,
+        "resolution": 3
+    },
+    "max video resolution": {
+        "maximum video capture resolution": 1,
+        "video resolution": 4
+    },
+    "built in flash": {
+        "flash type": 16,
+        "flash": 11,
+        "flash functions": 1,
+        "flash modes": 8,
+        "bundled items": 8,
+        "camera flash features": 3,
+        "builtin flash": 4
+    },
+    "flash type": {
+        "built in flash": 16,
+        "flash": 7,
+        "external flash connection": 4,
+        "builtin flash": 6,
+        "flash modes": 2
+    },
+    "face detection": {
+        "recording functions": 75,
+        "focusarea selection": 1
+    },
+    "recording functions": {
+        "face detection": 75,
+        "focusarea selection": 1,
+        "video resolution": 2,
+        "sweep panorama": 2
+    },
+    "lcd display": {
+        "screen type": 14,
+        "display type": 36,
+        "display technology": 1,
+        "additional display features": 14,
+        "viewfinder type": 3,
+        "monitor type": 9,
+        "viewing screen type": 7,
+        "name": 9,
+        "display screen type": 1
+    },
+    "wifi": {
+        "special attribute": 3,
+        "camera type": 7,
+        "features": 1
+    },
+    "special attribute": {
+        "wifi": 3,
+        "camera type": 2
+    },
+    "min focal length": {
+        "max focal length": 34,
+        "focal length equivalent to 35mm": 21,
+        "height": 4,
+        "35mm equivalent focal length min": 14,
+        "focal length": 2,
+        "focal length equivalent to 35mm camera": 2,
+        "lens wide mm": 4,
+        "iso min": 1,
+        "35mm equivalent": 1,
+        "lens tele mm": 1,
+        "lens": 3
+    },
+    "light sensitivity max": {
+        "max operating temperature": 88,
+        "viewfinder coverage": 2,
+        "iso rating": 1,
+        "model": 8,
+        "highest standard iso sensitivity": 9,
+        "iso": 1,
+        "video movie capture": 3
+    },
+    "zoom range": {
+        "image stabilizer": 24,
+        "viewfinder type": 1,
+        "zoom": 1,
+        "image stabilization": 2,
+        "optical zoom": 2
+    },
+    "image stabilizer": {
+        "zoom range": 24,
+        "image stabilization": 83,
+        "optical viewfinder": 4,
+        "image stablizer": 16,
+        "type": 10,
+        "image stabilisation": 11,
+        "metering method": 2
+    },
+    "category": {
+        "type": 27,
+        "parent product type": 22,
+        "camera type": 84,
+        "fujifilm av100": 2,
+        "description": 2,
+        "product name": 2,
+        "video input type": 5
+    },
+    "ac power supply": {
+        "ac adaptor": 9,
+        "power supply battery chargers": 2
+    },
+    "ac adaptor": {
+        "ac power supply": 9,
+        "power supply": 16
+    },
+    "sensitivity": {
+        "light sensitivity": 32,
+        "iso rating": 17,
+        "iso sensitivity": 3
+    },
+    "max image resolution": {
+        "still image resolution max": 24,
+        "resolution": 3,
+        "still image resolutions": 2,
+        "image resolutions": 6,
+        "image sizing": 2,
+        "max resolution": 2
+    },
+    "sensor": {
+        "optical sensor": 38,
+        "sensor type": 113,
+        "sensor typesize": 22,
+        "image sensor": 17,
+        "image sensor type": 1,
+        "optical sensor type": 10,
+        "sensor details": 4
+    },
+    "deal first added on": {
+        "last updated": 14,
+        "release date": 3
+    },
+    "last updated": {
+        "deal first added on": 14
+    },
+    "brand name": {
+        "brand": 57,
+        "product name": 2
+    },
+    "digital zoom": {
+        "optical zoom": 163,
+        "combined zoom": 4,
+        "continuous shooting speed": 2,
+        "supported aspect ratio": 1,
+        "normalizeddigital zoom": 10,
+        "intelligent zoom": 4,
+        "light sensitivity iso": 2,
+        "clear image zoom": 7,
+        "focal length tele": 1,
+        "lens wide mm": 1,
+        "focal length wide": 1,
+        "weight without battery": 1,
+        "iso sensitivity min": 1,
+        "additional zoom": 1
+    },
+    "optical zoom": {
+        "digital zoom": 163,
+        "lens tele mm": 5,
+        "usb version": 4,
+        "zoom": 19,
+        "lcd size": 2,
+        "screen size inches": 6,
+        "continuous shooting speed": 8,
+        "weight": 5,
+        "normalizedoptical zoom": 27,
+        "additional zoom": 3,
+        "age range maximum": 5,
+        "lcd display size inches": 2,
+        "weight0": 1,
+        "normalizeddigital zoom": 1,
+        "focal length": 3,
+        "depth inches": 1,
+        "supported languages": 1,
+        "height": 2,
+        "width inches": 1,
+        "flash range": 1,
+        "sgpopticalzoom": 1,
+        "viewfinder magnification": 2,
+        "focal length multiplier": 3,
+        "max aperture": 2,
+        "light sensitivity iso": 1,
+        "height inches": 1,
+        "continuous advance fps": 1,
+        "optical zoom during movie recording": 2,
+        "zoom range": 2,
+        "iso min": 2,
+        "iso sensitivity min": 1,
+        "optical zoom range": 1
+    },
+    "focal length 35mm equivalent": {
+        "focal length equivalent to 35mm": 43,
+        "focal length equivalent to 35mm camera": 16,
+        "focal length": 18,
+        "35mm equivalent": 14,
+        "focal length equiv": 6,
+        "max focal length": 2,
+        "film lens equivalent 35mm": 1,
+        "lens tele mm": 2
+    },
+    "image sensor": {
+        "sensor type": 174,
+        "optical sensor": 52,
+        "image sensor type": 2,
+        "sensor": 17,
+        "optical sensor type": 26,
+        "sensor details": 16,
+        "sensor typesize": 1,
+        "type": 2
+    },
+    "image stabilization": {
+        "image stabilizer": 83,
+        "image stablizer": 14,
+        "zoom": 4,
+        "feature": 4,
+        "viewfinder type": 3,
+        "optical viewfinder": 3,
+        "features": 2,
+        "lens type": 2,
+        "image stabilisation": 5,
+        "zoom range": 2,
+        "steadyshot": 1,
+        "image stabilizer system": 4
+    },
+    "normalizedweight": {
+        "weight": 23,
+        "weight approximate": 3,
+        "width": 2
+    },
+    "parent product type": {
+        "category": 22,
+        "type": 1
+    },
+    "product model": {
+        "model": 45,
+        "model id": 3,
+        "mpn": 8,
+        "product number mpn": 1
+    },
+    "shortest shutter speed": {
+        "maximum shutter speed": 21,
+        "self timer": 5,
+        "shutter": 10,
+        "longest shutter speed": 4,
+        "max shutter speed": 2
+    },
+    "builtin flash range": {
+        "flash range": 22
+    },
+    "flash range": {
+        "builtin flash range": 22,
+        "lcd display size inches": 4,
+        "builtin flash guide number": 9,
+        "continuous advance fps": 3,
+        "builtin flash gn iso 100 meters": 2,
+        "max aperture wide": 1,
+        "sensor resolution mpx": 3,
+        "optical zoom": 1,
+        "weight pounds": 1,
+        "flash sync speed": 22,
+        "flash guide number": 1
+    },
+    "focal length equivalent to 35mm camera": {
+        "focal length 35mm equivalent": 16,
+        "max focal length": 15,
+        "focal length equivalent to 35mm": 20,
+        "35mm equivalent focal length max": 5,
+        "35mm equivalent": 18,
+        "focal length": 11,
+        "focal length equiv": 2,
+        "min focal length": 2,
+        "35mm equivalent focal length min": 1
+    },
+    "media software": {
+        "upgradeable memory": 4
+    },
+    "upgradeable memory": {
+        "media software": 4
+    },
+    "digital camera warehouse": {
+        "tech4ucomau": 28
+    },
+    "tech4ucomau": {
+        "digital camera warehouse": 28,
+        "itspotcomau": 1,
+        "mega buy": 4
+    },
+    "continuous shooting speed": {
+        "shipping weight in pounds": 1,
+        "depth inches": 9,
+        "width": 4,
+        "digital zoom": 2,
+        "continuous advance fps": 36,
+        "max aperture": 3,
+        "optical zoom": 8,
+        "maximum frame rate": 6,
+        "self timer delay": 1,
+        "focal length tele": 1,
+        "weight": 6,
+        "top continuous shooting speed at full resolution": 2,
+        "number focus points": 4,
+        "iso max": 1,
+        "height inches": 2,
+        "other sellers": 3,
+        "view magnification": 1,
+        "iso min": 5,
+        "auto focus af points": 1,
+        "selftimer": 2,
+        "weight without battery": 1,
+        "flash sync speed": 12
+    },
+    "shipping weight in pounds": {
+        "continuous shooting speed": 1,
+        "max aperture tele": 1,
+        "focal length wide": 6,
+        "macro focus range": 2,
+        "max aperture": 1,
+        "usb version": 2,
+        "continuous advance fps": 1
+    },
+    "model no": {
+        "product number mpn": 5,
+        "mpn": 54,
+        "model": 29,
+        "camera type": 1,
+        "product name": 2,
+        "sku": 1
+    },
+    "depth inches": {
+        "continuous shooting speed": 9,
+        "weight pounds": 9,
+        "depth": 14,
+        "continuous advance fps": 9,
+        "screen size": 16,
+        "optical zoom": 1,
+        "elementsgroups": 4,
+        "height inches": 2
+    },
+    "video movie capture": {
+        "video resolution": 64,
+        "maximum video capture resolution": 19,
+        "maximum video resolution": 3,
+        "movie size": 2,
+        "image resolutions": 1,
+        "video display resolution": 5,
+        "light sensitivity max": 3
+    },
+    "iso speeds": {
+        "iso sensitivity": 1,
+        "iso speed rating": 10,
+        "viewfinder coverage": 2,
+        "model": 5
+    },
+    "iso speed rating": {
+        "iso speeds": 10,
+        "iso rating": 5,
+        "light sensitivity": 1
+    },
+    "external flash": {
+        "flash": 135,
+        "external flash connection": 11
+    },
+    "flash": {
+        "external flash": 135,
+        "built in flash": 11,
+        "flash type": 7,
+        "flash functions": 4,
+        "bundled items": 2
+    },
+    "viewfinder coverage": {
+        "light sensitivity max": 2,
+        "humidity": 1,
+        "iso min": 6,
+        "field view": 3,
+        "coverage verticalhorizontal": 8,
+        "screen coverage": 37,
+        "iso speeds": 2,
+        "iso rating": 1,
+        "lowest standard iso sensitivity": 2,
+        "viewfinder field coverage": 1,
+        "focal length tele": 2,
+        "iso sensitivity min": 1,
+        "lens tele mm": 2,
+        "coverage": 1
+    },
+    "display screen": {
+        "screen size": 173,
+        "lcd display size inches": 16
+    },
+    "pixel count": {
+        "megapixels": 306,
+        "optical sensor resolution in megapixel": 10,
+        "resolution": 46,
+        "camera resolution": 1,
+        "effective megapixel count": 3
+    },
+    "minimum shutter speed": {
+        "self timer": 137,
+        "shutter speed min": 80,
+        "max sync speed": 3,
+        "continuous shooting": 3,
+        "slowest shutter speed": 4,
+        "maximum flash sync": 2,
+        "shutter speed max": 4,
+        "maximum shutter speed": 2,
+        "min shutter speed": 2
+    },
+    "self timer": {
+        "minimum shutter speed": 137,
+        "longest shutter speed": 8,
+        "shutter speed min": 17,
+        "shortest shutter speed": 5,
+        "shutter": 11,
+        "shutter speed max": 20,
+        "maximum shutter speed": 94,
+        "sync terminal": 22,
+        "max sync speed": 4,
+        "shutter speed": 2,
+        "lowest standard iso sensitivity": 1,
+        "selftimer": 9,
+        "maximum flash sync": 10,
+        "flash sync speed": 1
+    },
+    "camera color": {
+        "color": 45,
+        "colour": 6
+    },
+    "color": {
+        "camera color": 45,
+        "exterior color": 7,
+        "finish": 4,
+        "colour": 99,
+        "model": 1,
+        "primary color": 19,
+        "colour product": 20,
+        "focus distance": 1,
+        "product number mpn": 3
+    },
+    "height": {
+        "width": 10,
+        "min focal length": 4,
+        "optical sensor size": 4,
+        "max focal length": 1,
+        "height inches": 22,
+        "minimum focal length 35mm film equiv": 1,
+        "35mm equivalent focal length max": 1,
+        "sensor size": 3,
+        "optical zoom": 2,
+        "dimensions": 1,
+        "number focus points": 6,
+        "focal length wide": 5,
+        "screen size inches": 2,
+        "max aperture wide": 1,
+        "battery life max": 1,
+        "depth": 10,
+        "focus range": 2,
+        "autofocus points": 2
+    },
+    "width": {
+        "height": 10,
+        "continuous shooting speed": 4,
+        "max focal length": 25,
+        "width inches": 23,
+        "depth": 6,
+        "macro mode exposure mode": 3,
+        "focal length": 2,
+        "weight": 1,
+        "minimum focal length": 1,
+        "normalizedweight": 2
+    },
+    "depth": {
+        "max focal length": 8,
+        "height inches": 1,
+        "depth inches": 14,
+        "width": 6,
+        "screen size": 3,
+        "focal length multiplier": 4,
+        "viewfinder eyepoint": 3,
+        "max aperture": 1,
+        "minimum focal length 35mm film equiv": 1,
+        "maximum focal length 35mm film equiv": 1,
+        "focal length tele": 2,
+        "weight without battery": 1,
+        "height": 10,
+        "lcd screen size": 9
+    },
+    "still image format": {
+        "image format": 117,
+        "file formats": 63,
+        "image formats supported": 12,
+        "image file formats": 1,
+        "compression type": 1,
+        "image": 9,
+        "image formats": 10,
+        "photo recording formats": 7,
+        "digital video format": 2,
+        "video format": 2,
+        "recording format": 3
+    },
+    "image format": {
+        "still image format": 117,
+        "interchangeable lens camera format": 18,
+        "sensor format": 21,
+        "file format": 1,
+        "camera format": 2,
+        "image formats supported": 4,
+        "sensor size format": 2,
+        "camera file system": 3,
+        "video format": 1,
+        "file system": 9,
+        "image": 3,
+        "image recording format": 3,
+        "image file formats": 1,
+        "still image mode": 1,
+        "image formats": 2,
+        "file formats": 1,
+        "video capture format": 2
+    },
+    "movies": {
+        "video format": 5
+    },
+    "35mm equivalent focal length max": {
+        "max focal length": 3,
+        "focal length equivalent to 35mm camera": 5,
+        "focal length": 7,
+        "35mm equivalent focal length min": 40,
+        "35mm equivalent": 4,
+        "focal length equiv": 2,
+        "focal length equivalent to 35mm": 2,
+        "height": 1,
+        "lens tele mm": 1
+    },
+    "35mm equivalent focal length min": {
+        "min focal length": 14,
+        "focal length equivalent to 35mm": 3,
+        "35mm equivalent focal length max": 40,
+        "35mm equivalent": 1,
+        "focal length": 1,
+        "film lens equivalent 35mm": 2,
+        "lens tele mm": 2,
+        "focal length equivalent to 35mm camera": 1
+    },
+    "file formats": {
+        "still image format": 63,
+        "image formats supported": 9,
+        "image formats": 2,
+        "digital video format": 3,
+        "image file format": 1,
+        "still image mode": 1,
+        "photo recording formats": 1,
+        "image format": 1
+    },
+    "exterior color": {
+        "color": 7,
+        "primary color": 1
+    },
+    "display technology": {
+        "screen type": 12,
+        "display type": 7,
+        "lcd display": 1,
+        "viewfinder type": 2
+    },
+    "humidity": {
+        "viewfinder coverage": 1,
+        "operating relative humidity hh": 4,
+        "operating environment humidity": 1
+    },
+    "display size": {
+        "screen size": 45,
+        "lcd viewer": 2,
+        "lcd screen size inch": 1
+    },
+    "approx resolution": {
+        "megapixels": 156,
+        "effective pixels": 11,
+        "resolution": 4,
+        "camera resolution": 10,
+        "effective megapixels": 2,
+        "megapixel": 1,
+        "optical sensor resolution in megapixel": 2,
+        "camera pixel count": 2
+    },
+    "af modes": {
+        "focus mode": 4
+    },
+    "focus mode": {
+        "af modes": 4,
+        "manual focus": 7,
+        "focus modes": 5
+    },
+    "brightness": {
+        "brightness adjustment": 4
+    },
+    "brightness adjustment": {
+        "brightness": 4,
+        "brightness control": 1,
+        "brightness setting": 3
+    },
+    "construction": {
+        "lens construction": 24,
+        "lens": 2
+    },
+    "lens construction": {
+        "construction": 24,
+        "lens": 5
+    },
+    "continuous shooting": {
+        "continuous shots": 13,
+        "maximum frame rate": 4,
+        "shooting speed": 10,
+        "conitnous shots": 37,
+        "minimum shutter speed": 3,
+        "sync terminal": 3,
+        "continuousburst shooting": 4
+    },
+    "max aperture": {
+        "maximum aperture": 7,
+        "minimum aperture": 4,
+        "max aperture wide": 48,
+        "maximum fnumber": 2,
+        "aperture range": 4,
+        "continuous shooting speed": 3,
+        "supported languages": 1,
+        "aperture": 3,
+        "optical zoom": 2,
+        "depth": 1,
+        "shipping weight in pounds": 1,
+        "max aperture tele": 1
+    },
+    "maximum aperture": {
+        "max aperture": 7,
+        "aperture range": 16,
+        "aperture": 9,
+        "max aperture wide": 24,
+        "max aperture tele": 16,
+        "maximum fnumber": 3
+    },
+    "warranty information": {
+        "warranty labor": 32,
+        "standard warranty": 11,
+        "limited warranty": 3,
+        "warranty": 18,
+        "manufacturers warranty hardware": 19,
+        "tru age range": 3,
+        "manufacturer age range": 5,
+        "warranty parts": 6
+    },
+    "warranty labor": {
+        "warranty information": 32,
+        "warranty": 11,
+        "manufacturers warranty hardware": 15,
+        "limited warranty": 7
+    },
+    "flash syncspeed": {
+        "maximum shutter speed": 4,
+        "max shutter speed": 3,
+        "shutter speed max": 12,
+        "camera shutter speed min": 6,
+        "flash sync speed": 5,
+        "sync terminal": 6,
+        "camera shutter speed max": 2,
+        "selftimer": 2
+    },
+    "shutter speed min": {
+        "minimum shutter speed": 80,
+        "self timer": 17,
+        "max shutter speed": 1,
+        "maximum shutter speed": 2,
+        "shutter speed max": 2,
+        "shutter": 3
+    },
+    "image stablizer": {
+        "image stabilization": 14,
+        "image stabilizer": 16
+    },
+    "max resolution": {
+        "maximum image resolution": 30,
+        "still image resolution max": 8,
+        "resolution": 3,
+        "image sizing": 23,
+        "image resolutions": 2,
+        "video display resolution": 1,
+        "video resolution": 1,
+        "max image resolution": 2,
+        "total pixels": 1,
+        "still image max effective resolution": 1
+    },
+    "maximum image resolution": {
+        "max resolution": 30,
+        "resolution": 1,
+        "image sizing": 3,
+        "effective megapixels": 1,
+        "total pixels": 2,
+        "still image resolution max": 1
+    },
+    "processor": {
+        "image processor": 110,
+        "builtin processor": 1,
+        "model": 1,
+        "image processing engine": 4,
+        "imaging processor": 1
+    },
+    "image processor": {
+        "processor": 110,
+        "builtin processor": 18,
+        "lens type": 1,
+        "model": 1,
+        "image processing engine": 1,
+        "imaging processor": 7
+    },
+    "builtin flash": {
+        "flash modes": 3,
+        "flash type": 6,
+        "built in flash": 4,
+        "dedicated flash system": 3
+    },
+    "flash modes": {
+        "builtin flash": 3,
+        "flash metering": 11,
+        "red eye reduction": 20,
+        "redeye reduction": 4,
+        "flash functions": 8,
+        "built in flash": 8,
+        "flash type": 2,
+        "flash mode": 3
+    },
+    "exposure control method": {
+        "exposure modes": 3
+    },
+    "exposure modes": {
+        "exposure control method": 3,
+        "exposure control": 1,
+        "shooting modes": 3,
+        "metering method": 1,
+        "light metering mode": 1,
+        "macro mode": 3
+    },
+    "operating humidity": {
+        "field view": 3,
+        "lcd coverage": 2
+    },
+    "field view": {
+        "operating humidity": 3,
+        "iso min": 7,
+        "operating relative humidity hh": 12,
+        "viewfinder coverage": 3,
+        "screen coverage": 4,
+        "model": 3,
+        "iso sensitivity min": 13
+    },
+    "card format": {
+        "memory type": 17,
+        "memory card type": 81,
+        "compatible memory cards": 18,
+        "memory card supported": 1,
+        "storage type": 6
+    },
+    "metering": {
+        "metering modes": 83,
+        "metering method": 22,
+        "exposure metering": 9,
+        "exposure metering system": 3,
+        "metering mode": 9,
+        "light metering mode": 1,
+        "light metering": 2
+    },
+    "min shutter speed": {
+        "camera shutter speed max": 10,
+        "selftimer": 1,
+        "max shutter speed": 1,
+        "shutter speed": 2,
+        "self timer delay": 7,
+        "camera shutter speed min": 3,
+        "minimum shutter speed": 2,
+        "sync terminal": 1
+    },
+    "camera shutter speed max": {
+        "min shutter speed": 10,
+        "flash recharging time": 4,
+        "flash syncspeed": 2
+    },
+    "focal length min": {
+        "focal length": 8,
+        "focal length max": 3
+    },
+    "optical sensor size": {
+        "height": 4,
+        "sensor size": 51,
+        "screen size": 11,
+        "image sensor size": 4
+    },
+    "lcd size": {
+        "screen size": 47,
+        "lcd screen size": 2,
+        "lcd viewer": 4,
+        "lcd screen size inch": 2,
+        "optical zoom": 2,
+        "screen size inches": 7,
+        "viewing screen size": 3
+    },
+    "lens tele mm": {
+        "optical zoom": 5,
+        "focal length tele": 167,
+        "iso sensitivity min": 1,
+        "screen coverage": 1,
+        "model": 1,
+        "iso min": 3,
+        "operating temperature tt": 3,
+        "iso max": 10,
+        "film lens equivalent 35mm": 7,
+        "focal length 35mm equivalent": 2,
+        "max focal length": 2,
+        "35mm equivalent": 1,
+        "35mm equivalent focal length min": 2,
+        "min focal length": 1,
+        "focal length equivalent to 35mm": 1,
+        "35mm equivalent focal length max": 1,
+        "lens wide mm": 3,
+        "iso sensitivity max": 1,
+        "viewfinder coverage": 2
+    },
+    "lens wide mm": {
+        "focal length": 4,
+        "focal length wide": 139,
+        "weight": 14,
+        "max aperture tele": 5,
+        "iso min": 10,
+        "min focal length": 4,
+        "lens tele mm": 3,
+        "sensor size": 2,
+        "auto mode focusing range tele": 2,
+        "digital zoom": 1
+    },
+    "lens": {
+        "focal length": 31,
+        "lens type": 7,
+        "lens sd": 1,
+        "camera type": 1,
+        "text attribute1": 2,
+        "lens construction": 5,
+        "construction": 2,
+        "min focal length": 3,
+        "brand": 6
+    },
+    "metering method": {
+        "light metering method": 2,
+        "metering": 22,
+        "metering modes": 50,
+        "exposure metering": 9,
+        "image stabilizer": 2,
+        "exposure modes": 1,
+        "light metering": 6
+    },
+    "light metering method": {
+        "metering method": 2
+    },
+    "flash metering": {
+        "flash modes": 11,
+        "flash metering control": 3,
+        "flash control": 10
+    },
+    "focal length tele": {
+        "iso max": 44,
+        "lens tele mm": 167,
+        "iso sensitivity min": 3,
+        "screen coverage": 1,
+        "model": 1,
+        "operating temperature tt": 6,
+        "iso min": 12,
+        "combined zoom": 2,
+        "iso sensitivity max": 2,
+        "operating relative humidity hh": 1,
+        "continuous shooting speed": 1,
+        "max focal length": 1,
+        "focal length wide": 8,
+        "iso": 3,
+        "iso sensitivity": 3,
+        "film lens equivalent 35mm": 2,
+        "viewfinder coverage": 2,
+        "movie mode": 2,
+        "digital zoom": 1,
+        "max shutter speed": 1,
+        "depth": 2,
+        "continuous advance fps": 1,
+        "iso rating": 4
+    },
+    "iso max": {
+        "focal length tele": 44,
+        "iso sensitivity max": 27,
+        "iso sensitivity min": 2,
+        "iso sensitivity": 17,
+        "maximum video capture resolution": 1,
+        "iso rating": 12,
+        "max shutter speed": 1,
+        "light sensitivity iso": 1,
+        "lens tele mm": 10,
+        "continuous shooting speed": 1,
+        "iso min": 2,
+        "iso speed": 1,
+        "weight": 2
+    },
+    "iso min": {
+        "field view": 7,
+        "iso sensitivity min": 14,
+        "operating temperature tt": 1,
+        "screen coverage": 5,
+        "viewfinder coverage": 6,
+        "lens tele mm": 3,
+        "operating relative humidity hh": 2,
+        "focal length tele": 12,
+        "light sensitivity iso": 1,
+        "lens wide mm": 10,
+        "focal length wide": 36,
+        "min focal length": 1,
+        "max shutter speed": 6,
+        "continuous shooting speed": 5,
+        "iso max": 2,
+        "number focus points": 2,
+        "optical zoom": 2
+    },
+    "max aperture wide": {
+        "maximum aperture": 24,
+        "minimum aperture": 25,
+        "max aperture": 48,
+        "lens aperture": 5,
+        "aperture": 5,
+        "max aperture tele": 9,
+        "flash range": 1,
+        "screen size": 3,
+        "height": 1,
+        "focal length wide": 2
+    },
+    "screen size inches": {
+        "screen size": 67,
+        "lcd screen size": 9,
+        "focal length wide": 1,
+        "optical zoom": 6,
+        "lcd size": 7,
+        "height": 2
+    },
+    "shutter speed max": {
+        "flash syncspeed": 12,
+        "maximum shutter speed": 55,
+        "max shutter speed": 4,
+        "shutter": 58,
+        "self timer": 20,
+        "shutter speed": 1,
+        "camera shutter speed": 1,
+        "minimum shutter speed": 4,
+        "shutter speed min": 2
+    },
+    "combined zoom": {
+        "digital zoom": 4,
+        "playback zoom max": 2,
+        "focal length tele": 2
+    },
+    "image formats supported": {
+        "file formats": 9,
+        "still image format": 12,
+        "image format": 4
+    },
+    "light exposure correction": {
+        "exposure control": 21,
+        "ae bracketing": 1,
+        "flash exposure correction": 21,
+        "flash compensation": 10,
+        "exposure compensation": 4,
+        "flash exposure compensation": 2
+    },
+    "exposure control": {
+        "light exposure correction": 21,
+        "exposure modes": 1,
+        "exposure compensation": 12,
+        "exp adj range ev": 1,
+        "flash exposure compensation": 3
+    },
+    "operating relative humidity hh": {
+        "field view": 12,
+        "humidity": 4,
+        "screen coverage": 3,
+        "iso min": 2,
+        "hd movie mode": 1,
+        "focal length tele": 1
+    },
+    "usb version": {
+        "optical zoom": 4,
+        "usb": 7,
+        "shipping weight in pounds": 2
+    },
+    "warranty": {
+        "warranty labor": 11,
+        "warranty information": 18,
+        "seller warranty": 1,
+        "warranty summary": 3,
+        "manufacturers warranty hardware": 1
+    },
+    "battery type": {
+        "battery model": 10,
+        "battery technology": 4,
+        "batteries": 2,
+        "battery": 8,
+        "supplied battery": 2,
+        "battery model supported": 1
+    },
+    "battery model": {
+        "battery type": 10,
+        "battery": 54,
+        "battery model supported": 2,
+        "battery type model": 6,
+        "power notes": 3
+    },
+    "image ratio wh": {
+        "aspect ratio": 8,
+        "image ratio": 23,
+        "display aspect ratio": 5,
+        "supported aspect ratio": 33,
+        "image size at aspect ratio": 6
+    },
+    "ccd image": {
+        "sensor type": 2
+    },
+    "focal length max": {
+        "focal length": 5,
+        "focal length min": 3
+    },
+    "lens mount": {
+        "brand": 425,
+        "family line": 9,
+        "lens system mounting": 11,
+        "manufacturer": 10,
+        "lens mount interface": 10,
+        "camera series": 1,
+        "series": 1,
+        "lens system": 1,
+        "lens type": 21,
+        "sensor format": 4,
+        "interchangeable lens camera format": 11,
+        "product number mpn": 1,
+        "model": 1,
+        "display form factor": 3,
+        "mount": 2
+    },
+    "part number": {
+        "mpn": 32,
+        "product number mpn": 13,
+        "upc": 2,
+        "camera type": 1,
+        "model": 9,
+        "catalog number": 2
+    },
+    "memory card support": {
+        "memory card type": 2,
+        "memory type": 3
+    },
+    "audio video interface": {
+        "tv out": 35,
+        "audio video interface ntscpal": 15,
+        "video recording": 2
+    },
+    "tv out": {
+        "audio video interface": 35,
+        "audio video interface ntscpal": 6
+    },
+    "flash compensation": {
+        "exposure compensation": 30,
+        "flash exposure correction": 6,
+        "light exposure correction": 10,
+        "compensation": 1
+    },
+    "flash metering control": {
+        "flash metering": 3
+    },
+    "frame ratevideo modes": {
+        "movie size": 1,
+        "video display resolution": 2
+    },
+    "movie size": {
+        "frame ratevideo modes": 1,
+        "file size": 4,
+        "maximum video capture resolution": 3,
+        "video movie capture": 2,
+        "maximum video resolution": 5,
+        "movie mode": 3
+    },
+    "supported aspect ratio": {
+        "aspect ratio": 5,
+        "image ratio": 53,
+        "digital zoom": 1,
+        "supported aspect ratios": 1,
+        "image ratio wh": 33,
+        "image size at aspect ratio": 1
+    },
+    "supported languages": {
+        "flash sync speed": 6,
+        "lens weight": 1,
+        "weight": 3,
+        "max aperture": 1,
+        "optical zoom": 1,
+        "height inches": 4,
+        "focal length conversion factor slr": 2,
+        "lcd display size inches": 1
+    },
+    "flash sync speed": {
+        "supported languages": 6,
+        "flash syncspeed": 5,
+        "interface languages": 1,
+        "slowest shutter speed": 14,
+        "total custom settings": 3,
+        "lens weight": 1,
+        "sync terminal": 6,
+        "flash range": 22,
+        "selftimer": 1,
+        "self timer": 1,
+        "continuous shooting speed": 12,
+        "continuous advance fps": 1
+    },
+    "viewpoint dioptric adjustment": {
+        "diopter adjustment": 7
+    },
+    "diopter adjustment": {
+        "viewpoint dioptric adjustment": 7
+    },
+    "total pixels": {
+        "effective pixels": 54,
+        "effective megapixels": 100,
+        "display resolution numeric": 1,
+        "maximum video resolution": 2,
+        "maximum image resolution": 2,
+        "camera resolution": 17,
+        "optical sensor resolution in megapixel": 2,
+        "lcd screen resolution": 2,
+        "effective sensor resolution": 6,
+        "max resolution": 1,
+        "total pixelgross pixel": 3,
+        "megapixels": 2,
+        "pixel gross": 1
+    },
+    "focal length fmm": {
+        "focal length multiplier": 78,
+        "focal length": 5,
+        "35mm focal length equivalent": 5,
+        "screen size": 12,
+        "film lens equivalent 35mm": 2
+    },
+    "focal length multiplier": {
+        "focal length fmm": 78,
+        "focal length": 8,
+        "35mm focal length equivalent": 19,
+        "crop factor": 1,
+        "depth": 4,
+        "focal length conversion factor slr": 6,
+        "focal length equiv": 3,
+        "focal length conversion factor": 2,
+        "screen size": 3,
+        "optical zoom": 3,
+        "maximum diopter adjustment": 1
+    },
+    "lcd screen size inch": {
+        "screen size": 38,
+        "lcd size": 2,
+        "lcd display size inches": 1,
+        "lcd screen size": 4,
+        "display size": 1
+    },
+    "file size": {
+        "movie size": 4,
+        "video resolution": 6
+    },
+    "color filter system": {
+        "color filter": 3
+    },
+    "color filter": {
+        "color filter system": 3,
+        "sensor type": 2
+    },
+    "monitor size": {
+        "screen size": 1
+    },
+    "interchangeable lens camera format": {
+        "image format": 18,
+        "sensor format": 46,
+        "brand": 3,
+        "model": 2,
+        "lens mount": 11,
+        "lens type": 1
+    },
+    "family line": {
+        "lens mount": 9,
+        "brand": 144,
+        "lens system mounting": 3,
+        "model": 2,
+        "series": 1,
+        "product name": 3,
+        "manufacturer": 2,
+        "product line": 3
+    },
+    "image resolutions": {
+        "still image resolution max": 14,
+        "max resolution": 2,
+        "resolution": 2,
+        "video movie capture": 1,
+        "max image resolution": 6,
+        "image sizing": 3,
+        "video resolution": 2
+    },
+    "battery model supported": {
+        "battery": 15,
+        "battery model": 2,
+        "battery type": 1
+    },
+    "battery": {
+        "battery model supported": 15,
+        "battery model": 54,
+        "battery technology": 3,
+        "live view shooting": 2,
+        "battery type": 8,
+        "supplied battery": 1,
+        "power source": 3,
+        "battery batteries": 3,
+        "included battery model": 2,
+        "power source battery": 4,
+        "compatible battery": 2
+    },
+    "longest shutter speed": {
+        "self timer": 8,
+        "shortest shutter speed": 4,
+        "maximum shutter speed": 1,
+        "shutter": 1
+    },
+    "maximum frame rate": {
+        "continuous shooting": 4,
+        "continuous shooting speed": 6,
+        "conitnous shots": 3,
+        "motion jpeg frame rate": 1
+    },
+    "shutter lag": {
+        "startup time": 8
+    },
+    "startup time": {
+        "shutter lag": 8,
+        "shutter release time lag": 4,
+        "recycling time": 1,
+        "shooting time lag": 5
+    },
+    "viewfinder magnification": {
+        "weight body only": 1,
+        "magnification": 18,
+        "optical zoom": 2
+    },
+    "weight body only": {
+        "viewfinder magnification": 1,
+        "viewing angle horizontallyvertically": 3,
+        "weight battery memory stick": 16,
+        "power consumption in operation": 1
+    },
+    "viewing angle horizontallyvertically": {
+        "weight body only": 3,
+        "coverage": 4
+    },
+    "pixel": {
+        "megapixels": 12
+    },
+    "max sync speed": {
+        "minimum shutter speed": 3,
+        "xsync": 4,
+        "sync terminal": 12,
+        "self timer": 4,
+        "shutter speed": 1,
+        "maximum flash sync": 2
+    },
+    "lcd type": {
+        "display form factor": 24,
+        "focusing screen": 3,
+        "viewing screen type": 2
+    },
+    "display form factor": {
+        "lcd type": 24,
+        "focusing screen": 3,
+        "articulated lcd": 3,
+        "lens mount": 3
+    },
+    "storage type": {
+        "memory type": 35,
+        "memory card type": 47,
+        "recording media": 1,
+        "storage media type": 6,
+        "storage media": 4,
+        "storage": 3,
+        "card format": 6
+    },
+    "lens system mounting": {
+        "lens mount": 11,
+        "family line": 3,
+        "brand": 24,
+        "model": 4,
+        "series": 1,
+        "sensor format": 1
+    },
+    "macro mode exposure mode": {
+        "macro mode": 55,
+        "minimum focus distance": 1,
+        "width": 3
+    },
+    "macro mode": {
+        "macro mode exposure mode": 55,
+        "minimum focus distance": 12,
+        "macro focus range": 2,
+        "auto focus": 2,
+        "hdmi connector type": 4,
+        "exposure modes": 3
+    },
+    "af system points": {
+        "focusing sysetm": 12
+    },
+    "focusing sysetm": {
+        "af system points": 12
+    },
+    "ship weight": {
+        "the description needs": 46
+    },
+    "the description needs": {
+        "ship weight": 46
+    },
+    "builtin processor": {
+        "image processor": 18,
+        "processor": 1
+    },
+    "screen resolution pixels": {
+        "max shutter speed": 2,
+        "resolution": 8,
+        "screen resolution": 7,
+        "number dots": 8
+    },
+    "selftimer": {
+        "min shutter speed": 1,
+        "camera shutter speed min": 3,
+        "release selftimer": 2,
+        "self timer": 9,
+        "flash sync speed": 1,
+        "flash syncspeed": 2,
+        "continuous shooting speed": 2
+    },
+    "display": {
+        "screen type": 11,
+        "viewfinder": 2,
+        "display screen type": 3,
+        "viewfinder type": 1,
+        "display type": 3
+    },
+    "hd video": {
+        "hd movie mode": 5,
+        "movie mode": 8
+    },
+    "hd movie mode": {
+        "hd video": 5,
+        "operating relative humidity hh": 1,
+        "movie mode": 16
+    },
+    "focal length wide": {
+        "lens wide mm": 139,
+        "weight": 23,
+        "max aperture tele": 9,
+        "screen size": 1,
+        "screen size inches": 1,
+        "sensor size": 1,
+        "shipping weight in pounds": 6,
+        "iso min": 36,
+        "focal length tele": 8,
+        "height": 5,
+        "max aperture wide": 2,
+        "macro focusing range tele": 2,
+        "digital zoom": 1
+    },
+    "max aperture tele": {
+        "minimum aperture": 19,
+        "maximum aperture": 16,
+        "lens wide mm": 5,
+        "focal length wide": 9,
+        "max aperture wide": 9,
+        "lens aperture": 11,
+        "shipping weight in pounds": 1,
+        "number focus points": 2,
+        "megapixels": 2,
+        "max aperture": 1
+    },
+    "minimum aperture": {
+        "max aperture tele": 19,
+        "max aperture": 4,
+        "max aperture wide": 25,
+        "battery life max": 4
+    },
+    "viewfinder type": {
+        "lcd screen size": 3,
+        "lcd display": 3,
+        "screen type": 9,
+        "camera shutter type": 8,
+        "optical viewfinder": 28,
+        "display screen type": 4,
+        "optical viewfinder type": 2,
+        "display technology": 2,
+        "image stabilization": 3,
+        "type": 3,
+        "zoom range": 1,
+        "display type": 4,
+        "camera type": 1,
+        "display": 1,
+        "viewfinder": 1
+    },
+    "bundled software": {
+        "browsing printing": 6,
+        "software included": 1
+    },
+    "browsing printing": {
+        "bundled software": 6
+    },
+    "operating temperature tt": {
+        "temperature": 2,
+        "iso min": 1,
+        "iso sensitivity min": 3,
+        "lens tele mm": 3,
+        "focal length tele": 6,
+        "weight": 2
+    },
+    "temperature": {
+        "operating temperature tt": 2,
+        "weight": 13,
+        "operatingstorage temperature": 5,
+        "weight without battery": 2
+    },
+    "colour product": {
+        "colour": 24,
+        "color": 20,
+        "primary color": 1
+    },
+    "colour": {
+        "colour product": 24,
+        "finish": 4,
+        "color": 99,
+        "camera color": 6,
+        "primary color": 5
+    },
+    "power supply battery chargers": {
+        "ac power supply": 2
+    },
+    "height inches": {
+        "screen size": 4,
+        "depth": 1,
+        "height": 22,
+        "lcd display size inches": 6,
+        "sensor size": 9,
+        "supported languages": 4,
+        "weight": 1,
+        "continuous shooting speed": 2,
+        "optical zoom": 1,
+        "depth inches": 2
+    },
+    "finish": {
+        "color": 4,
+        "colour": 4
+    },
+    "lens type": {
+        "brand": 11,
+        "image processor": 1,
+        "focal length": 3,
+        "lens": 7,
+        "image stabilization": 2,
+        "lens mount": 21,
+        "interchangeable lens camera format": 1,
+        "product name": 7,
+        "lens system": 1
+    },
+    "memory card format": {
+        "memory type": 2,
+        "storage media": 1
+    },
+    "dimensions mm": {
+        "dimensions": 14
+    },
+    "ean": {
+        "upc": 51
+    },
+    "camera pixel count": {
+        "megapixels": 214,
+        "resolution": 3,
+        "sensor resolution": 16,
+        "optical sensor resolution in megapixel": 16,
+        "camera resolution": 4,
+        "approx resolution": 2,
+        "effective megapixel count": 2,
+        "effective megapixels": 3
+    },
+    "style": {
+        "model": 20,
+        "product number mpn": 3,
+        "upc": 26,
+        "mpn": 31,
+        "ean13": 5,
+        "manufacturer part number": 3,
+        "product name": 2,
+        "brand": 1
+    },
+    "series": {
+        "type": 3,
+        "model": 15,
+        "product line": 19,
+        "product name": 6,
+        "lens mount": 1,
+        "family line": 1,
+        "lens system mounting": 1,
+        "model id": 4
+    },
+    "weight pounds": {
+        "depth inches": 9,
+        "flash range": 1,
+        "focal length": 2
+    },
+    "product line": {
+        "series": 19,
+        "model": 4,
+        "family line": 3
+    },
+    "product name": {
+        "model": 20,
+        "type": 1,
+        "name": 9,
+        "series": 6,
+        "product number mpn": 2,
+        "brand": 17,
+        "model id": 5,
+        "family line": 3,
+        "mpn": 6,
+        "product type": 1,
+        "category": 2,
+        "product": 2,
+        "model no": 2,
+        "style": 2,
+        "brand name": 2,
+        "manufacturer": 2,
+        "lens type": 7
+    },
+    "file format": {
+        "image format": 1,
+        "photo recording formats": 8
+    },
+    "storage types": {
+        "storage media type": 6,
+        "memory card type": 1,
+        "memory type": 8
+    },
+    "audio video interface ntscpal": {
+        "audio video interface": 15,
+        "tv out": 6
+    },
+    "power supply": {
+        "ac adaptor": 16,
+        "ac power adapter": 7,
+        "supplied battery": 2
+    },
+    "shutter": {
+        "maximum shutter speed": 33,
+        "max shutter speed": 2,
+        "shutter speed max": 58,
+        "self timer": 11,
+        "shortest shutter speed": 10,
+        "shutter speed": 11,
+        "shutter speed range": 1,
+        "shutter type": 4,
+        "camera shutter speed": 3,
+        "longest shutter speed": 1,
+        "shutter speed min": 3
+    },
+    "width inches": {
+        "width": 23,
+        "optical zoom": 1
+    },
+    "name": {
+        "product name": 9,
+        "model": 2,
+        "lcd display": 9
+    },
+    "ac power adapter": {
+        "power supply": 7,
+        "ac adapter": 3
+    },
+    "package_id": {
+        "aperture range": 1,
+        "autofocus points": 1,
+        "number focus points": 2
+    },
+    "autofocus points": {
+        "number focus points": 31,
+        "maximum autofocus areaspoints": 1,
+        "auto focus": 4,
+        "package_id": 1,
+        "sensor size": 1,
+        "height": 2
+    },
+    "number focus points": {
+        "autofocus points": 31,
+        "auto focus af points": 6,
+        "weight": 16,
+        "maximum autofocus areaspoints": 7,
+        "af points": 1,
+        "height": 6,
+        "package_id": 2,
+        "continuous shooting speed": 4,
+        "sensor size": 4,
+        "max aperture tele": 2,
+        "elementsgroups": 1,
+        "iso min": 2
+    },
+    "camera format": {
+        "image format": 2
+    },
+    "video input type": {
+        "camera type": 11,
+        "type": 1,
+        "category": 5
+    },
+    "additional display features": {
+        "lcd display": 14
+    },
+    "upceanisbn": {
+        "ean14": 3,
+        "upc": 3,
+        "model": 4
+    },
+    "manufacturer part number": {
+        "mpn": 11,
+        "model": 7,
+        "style": 3
+    },
+    "expansion slot": {
+        "supported flash memory": 10,
+        "bundled items": 1
+    },
+    "supported flash memory": {
+        "expansion slot": 10
+    },
+    "image formats": {
+        "file formats": 2,
+        "still image format": 10,
+        "image format": 2
+    },
+    "memory card supported": {
+        "card format": 1
+    },
+    "itspotcomau": {
+        "tech4ucomau": 1,
+        "mega buy": 1
+    },
+    "waterproof depth": {
+        "water proof": 15
+    },
+    "water proof": {
+        "waterproof depth": 15,
+        "shock proof": 5
+    },
+    "minimum focus distance": {
+        "maximum focal length 35mm film equiv": 3,
+        "macro mode": 12,
+        "macro mode exposure mode": 1
+    },
+    "maximum focal length 35mm film equiv": {
+        "minimum focus distance": 3,
+        "filter size": 1,
+        "depth": 1,
+        "minimum focal length 35mm film equiv": 2
+    },
+    "size": {
+        "dimensions": 37,
+        "dimensions wxhxd": 8
+    },
+    "minimum focal length 35mm film equiv": {
+        "height": 1,
+        "depth": 1,
+        "maximum focal length 35mm film equiv": 2
+    },
+    "shock proof": {
+        "water proof": 5
+    },
+    "continuous advance fps": {
+        "depth inches": 9,
+        "continuous shooting speed": 36,
+        "flash range": 3,
+        "model": 1,
+        "sensor size": 2,
+        "shipping weight in pounds": 1,
+        "optical zoom": 1,
+        "focal length tele": 1,
+        "flash sync speed": 1
+    },
+    "country region manufacture": {
+        "countryregion manufacture": 1,
+        "country origin": 3
+    },
+    "countryregion manufacture": {
+        "country region manufacture": 1,
+        "country origin": 4
+    },
+    "optical viewfinder": {
+        "image stabilizer": 4,
+        "viewfinder type": 28,
+        "image stabilization": 3
+    },
+    "screen coverage": {
+        "iso min": 5,
+        "lens tele mm": 1,
+        "focal length tele": 1,
+        "iso sensitivity min": 11,
+        "field view": 4,
+        "viewfinder coverage": 37,
+        "operating relative humidity hh": 3,
+        "lowest standard iso sensitivity": 3
+    },
+    "zoom": {
+        "image stabilization": 4,
+        "optical zoom": 19,
+        "weight": 3,
+        "zoom range": 1
+    },
+    "manuf no": {
+        "model": 18,
+        "model id": 2,
+        "mpn": 5
+    },
+    "external flash connection": {
+        "external flash": 11,
+        "other flash features": 1,
+        "flash type": 4
+    },
+    "focal length equiv": {
+        "35mm equivalent": 3,
+        "focal length 35mm equivalent": 6,
+        "35mm equivalent focal length max": 2,
+        "focal length equivalent to 35mm camera": 2,
+        "focal length": 1,
+        "focal length multiplier": 3,
+        "film lens equivalent 35mm": 2
+    },
+    "display screen type": {
+        "viewfinder": 2,
+        "viewfinder type": 4,
+        "screen type": 10,
+        "monitor type": 3,
+        "display": 3,
+        "lcd display": 1
+    },
+    "viewfinder": {
+        "display screen type": 2,
+        "optical viewfinder type": 5,
+        "display": 2,
+        "screen type": 1,
+        "dust reduction": 2,
+        "monitor type": 1,
+        "viewfinder type": 1
+    },
+    "file size high res": {
+        "file size low res": 4
+    },
+    "file size low res": {
+        "file size high res": 4
+    },
+    "sensor typesize": {
+        "sensor": 22,
+        "sensor type": 12,
+        "sensor size": 6,
+        "image sensor": 1,
+        "sensor format": 1,
+        "imaging sensor": 1,
+        "optical sensor type": 1
+    },
+    "red eye reduction": {
+        "flash modes": 20,
+        "flash functions": 2
+    },
+    "flash exposure correction": {
+        "light exposure correction": 21,
+        "flash compensation": 6,
+        "exposure compensation": 1
+    },
+    "image sensor size": {
+        "sensor size": 12,
+        "optical sensor size": 4,
+        "sensor type size": 2
+    },
+    "weight including battery": {
+        "weight": 27
+    },
+    "usb": {
+        "connectivity": 3,
+        "usb version": 7,
+        "usb cable": 10,
+        "interface type": 1,
+        "connectivity system req": 6,
+        "usb port": 2
+    },
+    "connectivity": {
+        "usb": 3,
+        "portsconnectors": 2,
+        "usb cable": 3,
+        "interface": 3,
+        "memory card type": 1
+    },
+    "rrp": {
+        "retail price": 6
+    },
+    "retail price": {
+        "rrp": 6,
+        "skuprice": 15
+    },
+    "iso speed range": {
+        "iso sensitivity": 10
+    },
+    "weight inc batteries": {
+        "weight": 27
+    },
+    "actual weight": {
+        "weight": 6
+    },
+    "battery technology": {
+        "battery": 3,
+        "battery type": 4
+    },
+    "feature": {
+        "image stabilization": 4
+    },
+    "lcd size in": {
+        "screen size": 4
+    },
+    "tru age range": {
+        "standard warranty": 6,
+        "warranty information": 3,
+        "manufacturers warranty hardware": 9,
+        "limited warranty": 2,
+        "manufacturer age range": 7
+    },
+    "standard warranty": {
+        "tru age range": 6,
+        "warranty information": 11,
+        "manufacturers warranty hardware": 1
+    },
+    "total resolution": {
+        "megapixels": 9
+    },
+    "builtin flash gn iso 100 meters": {
+        "builtin flash guide number": 15,
+        "flash range": 2
+    },
+    "builtin flash guide number": {
+        "builtin flash gn iso 100 meters": 15,
+        "flash range": 9,
+        "flash guide number": 8
+    },
+    "colour filter type": {
+        "colour filter size": 8
+    },
+    "colour filter size": {
+        "colour filter type": 8
+    },
+    "redeye reduction": {
+        "flash modes": 4
+    },
+    "xsync": {
+        "max sync speed": 4
+    },
+    "portsconnectors": {
+        "connectivity": 2
+    },
+    "shooting speed": {
+        "continuous shooting": 10
+    },
+    "compatible memory card": {
+        "memory type": 2
+    },
+    "raw": {
+        "ad resolution power": 2
+    },
+    "ad resolution power": {
+        "raw": 2,
+        "bit depth": 3
+    },
+    "lcd screen resolution": {
+        "display resolution numeric": 9,
+        "video resolution": 2,
+        "total pixels": 2,
+        "effective megapixels": 4,
+        "screen resolution": 3
+    },
+    "display resolution numeric": {
+        "lcd screen resolution": 9,
+        "maximum video resolution": 6,
+        "total pixels": 1,
+        "video resolution": 4,
+        "display resolution": 6,
+        "effective megapixels": 4,
+        "video resolutions": 2
+    },
+    "primary color": {
+        "color": 19,
+        "colour product": 1,
+        "exterior color": 1,
+        "colour": 5
+    },
+    "resolution megapixels": {
+        "megapixels": 41
+    },
+    "magnification": {
+        "viewfinder magnification": 18,
+        "playback zoom max": 2,
+        "maximum magnification": 1
+    },
+    "auto focus af points": {
+        "number focus points": 6,
+        "continuous shooting speed": 1
+    },
+    "flash recharging time": {
+        "camera shutter speed max": 4
+    },
+    "display aspect ratio": {
+        "image ratio wh": 5
+    },
+    "flash guide number": {
+        "builtin flash guide number": 8,
+        "flash range": 1
+    },
+    "dedicated flash system": {
+        "focus": 4,
+        "builtin flash": 3
+    },
+    "lens mount interface": {
+        "lens mount": 10,
+        "brand": 10
+    },
+    "lens system": {
+        "focal length": 2,
+        "lens mount": 1,
+        "lens type": 1
+    },
+    "motion jpeg frame rate": {
+        "frame rate": 2,
+        "maximum frame rate": 1,
+        "burst rate": 2
+    },
+    "frame rate": {
+        "motion jpeg frame rate": 2
+    },
+    "supported aspect ratios": {
+        "image ratio": 17,
+        "supported aspect ratio": 1,
+        "aspect ratio": 6
+    },
+    "total megapixels": {
+        "megapixels": 21,
+        "total camera resolution": 3
+    },
+    "1920 1080 full hd": {
+        "640 480 hd": 4,
+        "1280 720 hd": 16
+    },
+    "640 480 hd": {
+        "1920 1080 full hd": 4
+    },
+    "35mm focal length equivalent": {
+        "focal length": 4,
+        "focal length fmm": 5,
+        "focal length multiplier": 19
+    },
+    "effective sensor size": {
+        "sensor size": 12
+    },
+    "weight excl battery": {
+        "weight": 4
+    },
+    "sound files": {
+        "audio out": 2
+    },
+    "audio out": {
+        "sound files": 2,
+        "microphone": 2
+    },
+    "lcd coverage": {
+        "operating humidity": 2
+    },
+    "compatible battery": {
+        "bundled items": 1,
+        "battery charger": 4,
+        "battery": 2
+    },
+    "bundled items": {
+        "compatible battery": 1,
+        "image stabilizer location": 1,
+        "built in flash": 8,
+        "remote control modes": 4,
+        "expansion slot": 1,
+        "flash": 2
+    },
+    "serial number": {
+        "upc": 1
+    },
+    "battery life max": {
+        "minimum aperture": 4,
+        "height": 1
+    },
+    "camera shutter speed min": {
+        "flash syncspeed": 6,
+        "selftimer": 3,
+        "min shutter speed": 3
+    },
+    "live view shooting": {
+        "battery": 2
+    },
+    "bit depth": {
+        "ad resolution power": 3
+    },
+    "sensor type size": {
+        "sensor size": 25,
+        "sensor format": 2,
+        "image sensor size": 2
+    },
+    "audio": {
+        "audio formats": 1
+    },
+    "audio formats": {
+        "audio": 1,
+        "microphone": 3,
+        "movie audio recording format": 13,
+        "audio recording format": 19,
+        "audio formats supported": 3,
+        "audio format": 1
+    },
+    "microphone": {
+        "audio out": 2,
+        "audio formats": 3,
+        "movie audio": 1,
+        "microphone operation mode": 2,
+        "speaker": 2,
+        "audio system": 1,
+        "builtin microphone": 3,
+        "microphonespeaker": 1
+    },
+    "bulb shutter setting": {
+        "sync terminal": 1
+    },
+    "image file formats": {
+        "still image format": 1,
+        "image format": 1
+    },
+    "lcd pixels": {
+        "screen dots": 1
+    },
+    "screen dots": {
+        "lcd pixels": 1,
+        "max shutter speed": 2
+    },
+    "lcd resolution": {
+        "image display resolution": 1
+    },
+    "image display resolution": {
+        "lcd resolution": 1,
+        "monitor resolution": 48,
+        "screen resolution": 2,
+        "number dots": 8
+    },
+    "lens weight": {
+        "supported languages": 1,
+        "autofocus array": 2,
+        "flash sync speed": 1
+    },
+    "sensor size format": {
+        "image format": 2
+    },
+    "memory notes": {
+        "compatible memory cards": 1
+    },
+    "analog signal format system": {
+        "video recording": 6
+    },
+    "video recording": {
+        "analog signal format system": 6,
+        "audio video interface": 2
+    },
+    "camera file system": {
+        "image format": 3
+    },
+    "camera shutter type": {
+        "viewfinder type": 8
+    },
+    "lens structure elementsgroups": {
+        "elementsgroups": 2
+    },
+    "elementsgroups": {
+        "lens structure elementsgroups": 2,
+        "depth inches": 4,
+        "number focus points": 1
+    },
+    "1280 720 hd": {
+        "1920 1080 full hd": 16
+    },
+    "coverage verticalhorizontal": {
+        "viewfinder coverage": 8
+    },
+    "small": {
+        "small0": 16
+    },
+    "small0": {
+        "small": 16
+    },
+    "usb cable": {
+        "usb": 10,
+        "interface": 19,
+        "computer": 2,
+        "connectivity": 3
+    },
+    "burst rate": {
+        "continuous shots": 1,
+        "top continuous shooting speed at full resolution": 3,
+        "motion jpeg frame rate": 2,
+        "megapixels": 1
+    },
+    "other flash features": {
+        "external flash connection": 1
+    },
+    "limited warranty": {
+        "warranty information": 3,
+        "warranty labor": 7,
+        "tru age range": 2,
+        "manufacturer age range": 1,
+        "manufacturers warranty hardware": 1
+    },
+    "image sensor type": {
+        "sensor type": 20,
+        "image sensor": 2,
+        "optical sensor type": 8,
+        "optical sensor": 10,
+        "sensor details": 1,
+        "sensor": 1
+    },
+    "weight approximate": {
+        "weight": 3,
+        "normalizedweight": 3
+    },
+    "flash functions": {
+        "flash modes": 8,
+        "flash": 4,
+        "built in flash": 1,
+        "red eye reduction": 2
+    },
+    "compression type": {
+        "still image format": 1
+    },
+    "manual focus": {
+        "focus type": 1,
+        "focus mode": 7
+    },
+    "focus type": {
+        "manual focus": 1
+    },
+    "crop factor": {
+        "focal length multiplier": 1
+    },
+    "recording formats": {
+        "video format": 1
+    },
+    "ac adapter": {
+        "ac power adapter": 3
+    },
+    "recording media": {
+        "storage type": 1
+    },
+    "image": {
+        "still image format": 9,
+        "image format": 3
+    },
+    "optical viewfinder type": {
+        "viewfinder type": 2,
+        "viewfinder": 5
+    },
+    "manufacturers warranty hardware": {
+        "warranty labor": 15,
+        "warranty information": 19,
+        "tru age range": 9,
+        "limited warranty": 1,
+        "warranty": 1,
+        "standard warranty": 1
+    },
+    "playback zoom max": {
+        "combined zoom": 2,
+        "magnification": 2
+    },
+    "digital slr": {
+        "camera body only": 8,
+        "camera type": 6
+    },
+    "camera series": {
+        "lens mount": 1
+    },
+    "skuprice": {
+        "retail price": 15
+    },
+    "dimension": {
+        "dimensions": 1
+    },
+    "interchangeable lens": {
+        "select camera style": 6,
+        "features": 1,
+        "camera style": 1
+    },
+    "select camera style": {
+        "interchangeable lens": 6,
+        "type": 1
+    },
+    "features": {
+        "image stabilization": 2,
+        "interchangeable lens": 1,
+        "wifi": 1,
+        "camera type": 4,
+        "camera style": 1
+    },
+    "fujifilm av100": {
+        "category": 2
+    },
+    "normalizeddigital zoom": {
+        "digital zoom": 10,
+        "optical zoom": 1
+    },
+    "normalizedinstalled memory": {
+        "lcd screen size": 1,
+        "screen size": 1
+    },
+    "installed memory": {
+        "internal memory": 70,
+        "inbuilt memory": 99,
+        "builtin memory": 88,
+        "storage capacity": 1,
+        "flash memory capacity": 1,
+        "memory": 1,
+        "ram installed": 3
+    },
+    "internal memory": {
+        "installed memory": 70,
+        "builtin memory": 90,
+        "inbuilt memory": 20,
+        "integrated memory size": 5
+    },
+    "inbuilt memory": {
+        "installed memory": 99,
+        "builtin memory": 25,
+        "internal memory": 20,
+        "storage capacity": 1,
+        "upgradable memory": 1
+    },
+    "normalizedoptical zoom": {
+        "optical zoom": 27,
+        "manufacturers age range maximum": 1
+    },
+    "monitor resolution": {
+        "image display resolution": 48
+    },
+    "interface": {
+        "usb cable": 19,
+        "connectivity": 3
+    },
+    "supplied battery": {
+        "battery batteries": 1,
+        "battery": 1,
+        "battery type": 2,
+        "power supply": 2
+    },
+    "battery batteries": {
+        "supplied battery": 1,
+        "battery": 3
+    },
+    "image size pixels": {
+        "resolution": 2,
+        "other resolution": 1
+    },
+    "software included": {
+        "software": 1,
+        "bundled software": 1,
+        "included software": 2
+    },
+    "software": {
+        "software included": 1
+    },
+    "video recording format": {
+        "movie mode": 1
+    },
+    "movie mode": {
+        "video recording format": 1,
+        "video resolution": 1,
+        "hd video": 8,
+        "hd movie mode": 16,
+        "focal length tele": 2,
+        "movie size": 3
+    },
+    "builtin memory": {
+        "internal memory": 90,
+        "installed memory": 88,
+        "flash memory capacity": 1,
+        "inbuilt memory": 25,
+        "storage capacity": 3
+    },
+    "additional zoom": {
+        "optical zoom": 3,
+        "digital zoom": 1
+    },
+    "age range maximum": {
+        "optical zoom": 5
+    },
+    "weight0": {
+        "optical zoom": 1
+    },
+    "focusing screen": {
+        "lcd type": 3,
+        "display form factor": 3
+    },
+    "camera technology": {
+        "camera type": 1
+    },
+    "color space": {
+        "colour space": 1
+    },
+    "colour space": {
+        "color space": 1
+    },
+    "viewfinder eyepoint": {
+        "viewfinder eye point": 1,
+        "depth": 3
+    },
+    "viewfinder eye point": {
+        "viewfinder eyepoint": 1,
+        "eyepoint": 2
+    },
+    "continuousburst shooting": {
+        "conitnous shots": 7,
+        "continuous shooting": 4
+    },
+    "monitor type": {
+        "lcd display": 9,
+        "display screen type": 3,
+        "display type": 1,
+        "viewfinder": 1
+    },
+    "shutter speeds": {
+        "shutter speed": 7
+    },
+    "up to": {
+        "model": 2
+    },
+    "image stabilizer location": {
+        "bundled items": 1
+    },
+    "filter size": {
+        "maximum focal length 35mm film equiv": 1,
+        "filterwide angle capability": 6
+    },
+    "batteries": {
+        "battery type": 2
+    },
+    "computer": {
+        "usb cable": 2
+    },
+    "coverage": {
+        "viewing angle horizontallyvertically": 4,
+        "viewfinder coverage": 1
+    },
+    "eyepoint": {
+        "viewfinder eye point": 2
+    },
+    "remote controller switch": {
+        "remote control terminal": 2
+    },
+    "remote control terminal": {
+        "remote controller switch": 2
+    },
+    "flash memory capacity": {
+        "builtin memory": 1,
+        "installed memory": 1
+    },
+    "country origin": {
+        "country region manufacture": 3,
+        "countryregion manufacture": 4,
+        "country manufacture": 2
+    },
+    "megapixel range": {
+        "megapixels": 15
+    },
+    "storage media": {
+        "memory card format": 1,
+        "memory type": 4,
+        "storage media type": 12,
+        "storage type": 4
+    },
+    "manufacturers age range maximum": {
+        "normalizedoptical zoom": 1
+    },
+    "hdmi": {
+        "connector type": 2,
+        "hdmi output": 2,
+        "connectivity system req": 1
+    },
+    "connector type": {
+        "hdmi": 2,
+        "usb connector type": 2
+    },
+    "interface languages": {
+        "flash sync speed": 1
+    },
+    "still image resolutions": {
+        "max image resolution": 2
+    },
+    "video formats supported": {
+        "video format": 2,
+        "digital video format": 3
+    },
+    "camera shutter speed": {
+        "shutter speed": 3,
+        "shutter": 3,
+        "shutter speed max": 1,
+        "shutter type": 4,
+        "shutter speed in other modes": 2
+    },
+    "1220 mp": {
+        "hd": 6
+    },
+    "hd": {
+        "1220 mp": 6
+    },
+    "sd": {
+        "memory type": 8
+    },
+    "shutter speed range": {
+        "shutter speed": 5,
+        "shutter": 1
+    },
+    "shooting range focusing range": {
+        "optical sensor resolution in megapixel": 1
+    },
+    "shutter release": {
+        "maximum shutter speed": 1
+    },
+    "instant film": {
+        "film": 3
+    },
+    "film": {
+        "instant film": 3
+    },
+    "image stabilisation": {
+        "image stabilizer": 11,
+        "image stabilization": 5
+    },
+    "effective resolution": {
+        "megapixels": 1
+    },
+    "manufacturer age range": {
+        "tru age range": 7,
+        "warranty information": 5,
+        "limited warranty": 1
+    },
+    "text attribute2": {
+        "resolution": 2
+    },
+    "lcd size inches": {
+        "screen size": 2
+    },
+    "macro focus range": {
+        "normal focus range": 4,
+        "shipping weight in pounds": 2,
+        "macro mode": 2
+    },
+    "normal focus range": {
+        "macro focus range": 4
+    },
+    "battery charger": {
+        "compatible battery": 4
+    },
+    "exposure metering system": {
+        "movie metering": 30,
+        "metering": 3,
+        "metering mode": 1,
+        "light metering system": 1
+    },
+    "movie metering": {
+        "exposure metering system": 30,
+        "metering mode": 1
+    },
+    "slowest shutter speed": {
+        "flash sync speed": 14,
+        "shutter speed": 6,
+        "minimum shutter speed": 4,
+        "fastest shutter speed": 4
+    },
+    "bundle lens": {
+        "bundle lens0": 6
+    },
+    "bundle lens0": {
+        "bundle lens": 6
+    },
+    "flash exposure compensation": {
+        "exposure compensation": 2,
+        "exposure control": 3,
+        "light exposure correction": 2
+    },
+    "camera style": {
+        "type": 13,
+        "interchangeable lens": 1,
+        "features": 1
+    },
+    "autofocus": {
+        "auto focus": 7
+    },
+    "power source": {
+        "battery": 3,
+        "power notes": 1
+    },
+    "self timer delay": {
+        "min shutter speed": 7,
+        "continuous shooting speed": 1
+    },
+    "remote control modes": {
+        "bundled items": 4
+    },
+    "hd videos": {
+        "video resolution": 1
+    },
+    "exposure metering mode": {
+        "exposure metering": 15,
+        "metering modes": 2
+    },
+    "autofocus af": {
+        "auto focus": 17
+    },
+    "fnumber": {
+        "lens aperture": 8,
+        "aperture range": 5,
+        "aperture": 1
+    },
+    "operatingstorage temperature": {
+        "operating environment temperature": 3,
+        "temperature": 5,
+        "operating temperature range": 2
+    },
+    "operating environment temperature": {
+        "operatingstorage temperature": 3
+    },
+    "flash control": {
+        "flash metering": 10
+    },
+    "image size at aspect ratio": {
+        "image ratio wh": 6,
+        "supported aspect ratio": 1,
+        "image ratio": 6,
+        "aspect ratio": 3
+    },
+    "top continuous shooting speed at full resolution": {
+        "burst rate": 3,
+        "continuous shooting speed": 2
+    },
+    "lens sd": {
+        "lens": 1,
+        "focal length": 1
+    },
+    "auto focus type": {
+        "camera type": 1,
+        "auto focus": 1
+    },
+    "storage capacity": {
+        "inbuilt memory": 1,
+        "installed memory": 1,
+        "builtin memory": 3
+    },
+    "amazon": {
+        "flipkart": 2
+    },
+    "flipkart": {
+        "amazon": 2
+    },
+    "file system": {
+        "image format": 9,
+        "pictbridge": 3
+    },
+    "focusarea selection": {
+        "face detection": 1,
+        "recording functions": 1
+    },
+    "iso sensitivity standard output sensitivity": {
+        "iso rating": 5,
+        "iso sensitivity": 2
+    },
+    "shutter speed in other modes": {
+        "speed": 9,
+        "camera shutter speed": 2
+    },
+    "speed": {
+        "shutter speed in other modes": 9
+    },
+    "max image size": {
+        "image sizing": 1,
+        "still image resolution max": 1
+    },
+    "fits": {
+        "brand": 4
+    },
+    "interest": {
+        "play_type": 8
+    },
+    "play_type": {
+        "interest": 8
+    },
+    "lower 48 day upcharge or override": {
+        "lower48 day upcharge or override": 4
+    },
+    "lower48 day upcharge or override": {
+        "lower 48 day upcharge or override": 4
+    },
+    "video": {
+        "video format": 1,
+        "digital video format": 1
+    },
+    "storage memory": {
+        "memory card type": 1
+    },
+    "ccd": {
+        "sensor type": 3
+    },
+    "iso": {
+        "focal length tele": 3,
+        "light sensitivity max": 1,
+        "iso rating": 1,
+        "iso range": 8,
+        "light sensitivity iso": 4,
+        "iso sensitivity setting": 1
+    },
+    "shutter type": {
+        "shutter": 4,
+        "camera shutter speed": 4
+    },
+    "camera flash features": {
+        "built in flash": 3
+    },
+    "integrated memory size": {
+        "internal memory": 5
+    },
+    "white balance modes": {
+        "white balancing": 2,
+        "white balance presets": 1,
+        "white balance": 5
+    },
+    "white balancing": {
+        "white balance modes": 2,
+        "white balance presets": 1,
+        "white balance": 4
+    },
+    "description": {
+        "category": 2,
+        "camera type": 1
+    },
+    "sensor resolution mpx": {
+        "flash range": 3
+    },
+    "warranty parts": {
+        "warranty information": 6
+    },
+    "focal length conversion factor slr": {
+        "focal length multiplier": 6,
+        "supported languages": 2
+    },
+    "max horizontal image resolution": {
+        "max vertical image resolution": 10
+    },
+    "max vertical image resolution": {
+        "max horizontal image resolution": 10
+    },
+    "release date": {
+        "deal first added on": 3
+    },
+    "picture angle": {
+        "focal length": 3,
+        "sensor size": 4
+    },
+    "video clip length": {
+        "maximum video capture resolution": 3
+    },
+    "highest standard iso sensitivity": {
+        "light sensitivity max": 9,
+        "lowest standard iso sensitivity": 4
+    },
+    "lowest standard iso sensitivity": {
+        "screen coverage": 3,
+        "viewfinder coverage": 2,
+        "self timer": 1,
+        "highest standard iso sensitivity": 4
+    },
+    "movie audio recording format": {
+        "audio formats": 13
+    },
+    "total custom settings": {
+        "flash sync speed": 3
+    },
+    "viewfinder frame coverage": {
+        "viewfinder field coverage": 9
+    },
+    "viewfinder field coverage": {
+        "viewfinder frame coverage": 9,
+        "viewfinder coverage": 1
+    },
+    "maximum autofocus areaspoints": {
+        "autofocus points": 1,
+        "number focus points": 7
+    },
+    "builtin devices": {
+        "builtin microphone": 1
+    },
+    "builtin microphone": {
+        "builtin devices": 1,
+        "microphone type": 3,
+        "audio system": 3,
+        "microphone": 3
+    },
+    "display resolution": {
+        "video resolution": 1,
+        "display resolution numeric": 6
+    },
+    "product type": {
+        "product name": 1,
+        "camera type": 1
+    },
+    "pictbridge": {
+        "wifi functionality": 2,
+        "file system": 3,
+        "delete function": 6
+    },
+    "wifi functionality": {
+        "pictbridge": 2,
+        "wifi networking": 3
+    },
+    "audio recording format": {
+        "audio formats": 19
+    },
+    "frame advance rate": {
+        "conitnous shots": 1
+    },
+    "storage": {
+        "storage type": 3,
+        "memory type": 3
+    },
+    "metering mode": {
+        "metering": 9,
+        "exposure metering system": 1,
+        "movie metering": 1,
+        "metering modes": 2
+    },
+    "lens filter size": {
+        "filterwide angle capability": 3
+    },
+    "filterwide angle capability": {
+        "lens filter size": 3,
+        "filter size": 6
+    },
+    "sgpopticalzoom": {
+        "optical zoom": 1
+    },
+    "focal length range": {
+        "focal length": 2
+    },
+    "included battery model": {
+        "battery": 2
+    },
+    "autofocus array": {
+        "lens weight": 2
+    },
+    "max video resolution24 fps minimum": {
+        "maximum video capture resolution": 1,
+        "video display resolution": 1
+    },
+    "autofocus sensitivity": {
+        "detection range": 1
+    },
+    "detection range": {
+        "autofocus sensitivity": 1
+    },
+    "exposure bracketing": {
+        "white balance bracketing": 2,
+        "flash bracketing": 4,
+        "ae bracket": 1
+    },
+    "white balance bracketing": {
+        "exposure bracketing": 2,
+        "flash bracketing": 8
+    },
+    "fastest shutter speed": {
+        "maximum shutter speed": 3,
+        "slowest shutter speed": 4
+    },
+    "flash bracketing": {
+        "white balance bracketing": 8,
+        "exposure bracketing": 4,
+        "exposure compensation": 6
+    },
+    "movie audio": {
+        "microphone": 1,
+        "movie audio recording device": 2
+    },
+    "movie video compression": {
+        "video compression": 1
+    },
+    "video compression": {
+        "movie video compression": 1,
+        "video format": 5
+    },
+    "af points": {
+        "number focus points": 1
+    },
+    "compatible brand": {
+        "brand": 3
+    },
+    "lcd screen": {
+        "display type": 1
+    },
+    "other resolution": {
+        "image size pixels": 1
+    },
+    "dust reduction": {
+        "viewfinder": 2,
+        "dustreduction system": 1,
+        "sensorself cleaning system": 2
+    },
+    "movie audio recording device": {
+        "movie audio": 2
+    },
+    "interface type": {
+        "usb": 1
+    },
+    "product": {
+        "product name": 2
+    },
+    "focal length conversion factor": {
+        "focal length multiplier": 2
+    },
+    "video output format": {
+        "video format": 1
+    },
+    "metering characteristics": {
+        "metering modes": 1,
+        "exposure metering": 2
+    },
+    "microphone type": {
+        "builtin microphone": 3,
+        "audio input type": 1
+    },
+    "microphone operation mode": {
+        "microphone": 2
+    },
+    "inch": {
+        "display type": 2,
+        "vari angle": 2
+    },
+    "removable memory type": {
+        "storage media type": 4
+    },
+    "hdmi output": {
+        "interface hdmi output": 1,
+        "hdmi": 2
+    },
+    "interface hdmi output": {
+        "hdmi output": 1
+    },
+    "operating environment humidity": {
+        "humidity": 1
+    },
+    "release selftimer": {
+        "selftimer": 2
+    },
+    "power source battery": {
+        "battery": 4
+    },
+    "continuous drive": {
+        "conitnous shots": 5
+    },
+    "format": {
+        "video format": 4
+    },
+    "vari angle": {
+        "inch": 2,
+        "screen type": 2
+    },
+    "dx format": {
+        "sensor type": 4
+    },
+    "dustreduction system": {
+        "dust reduction": 1
+    },
+    "wifi networking": {
+        "wifi functionality": 3
+    },
+    "seller warranty": {
+        "warranty": 1
+    },
+    "flash sync terminal": {
+        "sync terminal": 1
+    },
+    "power notes": {
+        "power source": 1,
+        "battery model": 3
+    },
+    "country manufacture": {
+        "country origin": 2
+    },
+    "text attribute1": {
+        "lens": 2
+    },
+    "mega buy": {
+        "itspotcomau": 1,
+        "tech4ucomau": 4
+    },
+    "sensorself cleaning system": {
+        "dust reduction": 2
+    },
+    "viewing screen size": {
+        "lcd screen size": 2,
+        "lcd viewer": 2,
+        "lcd size": 3,
+        "screen size": 3
+    },
+    "pixels": {
+        "megapixels": 5
+    },
+    "viewing screen type": {
+        "lcd display": 7,
+        "screen type": 1,
+        "lcd type": 2
+    },
+    "photo recording formats": {
+        "still image format": 7,
+        "file format": 8,
+        "file formats": 1
+    },
+    "film lens equivalent 35mm": {
+        "35mm equivalent": 4,
+        "lens tele mm": 7,
+        "focal length tele": 2,
+        "focal length 35mm equivalent": 1,
+        "max focal length": 1,
+        "focal length equiv": 2,
+        "focal length equivalent to 35mm": 1,
+        "35mm equivalent focal length min": 2,
+        "focal length fmm": 2
+    },
+    "battery type model": {
+        "battery model": 6
+    },
+    "image processing engine": {
+        "processor": 4,
+        "image processor": 1
+    },
+    "iso range": {
+        "iso": 8,
+        "iso sensitivity": 3,
+        "iso rating": 1
+    },
+    "lens focal length": {
+        "focal length": 3
+    },
+    "shooting modes": {
+        "exposure modes": 3
+    },
+    "memory": {
+        "installed memory": 1
+    },
+    "warranty summary": {
+        "warranty": 3
+    },
+    "delete function": {
+        "pictbridge": 6
+    },
+    "effective sensor resolution": {
+        "total pixels": 6
+    },
+    "image recording format": {
+        "image format": 3,
+        "digital video format": 2
+    },
+    "ram installed": {
+        "installed memory": 3
+    },
+    "af illuminator": {
+        "lowlight af assistance": 2
+    },
+    "lowlight af assistance": {
+        "af illuminator": 2
+    },
+    "focus modes": {
+        "focus mode": 5
+    },
+    "image file format": {
+        "file formats": 1
+    },
+    "built in microphone type": {
+        "audio recording": 1
+    },
+    "audio recording": {
+        "built in microphone type": 1
+    },
+    "metrics": {
+        "dimensions wxhxd": 3
+    },
+    "camera effective pixels": {
+        "megapixels": 7,
+        "optical sensor resolution in megapixel": 6,
+        "camera resolution": 1
+    },
+    "actual recordable time motion images": {
+        "continuous recordable time motion images2": 6,
+        "continuous recordable time motion images": 4
+    },
+    "continuous recordable time motion images2": {
+        "actual recordable time motion images": 6
+    },
+    "ae lock": {
+        "af lock": 21,
+        "ae lockexposure lock": 1
+    },
+    "af lock": {
+        "ae lock": 21,
+        "exposure lock": 1
+    },
+    "af detective range": {
+        "metering range": 20
+    },
+    "metering range": {
+        "af detective range": 20
+    },
+    "motion image progressive ntsc area": {
+        "motion image progressive pal area": 6
+    },
+    "motion image progressive pal area": {
+        "motion image progressive ntsc area": 6
+    },
+    "continuous recordable time motion images": {
+        "actual recordable time motion images": 4
+    },
+    "autofocus type": {
+        "auto focus": 3
+    },
+    "white balance presets": {
+        "white balancing": 1,
+        "white balance modes": 1
+    },
+    "articulated lcd": {
+        "display form factor": 3
+    },
+    "sensor photo detectors": {
+        "camera resolution": 1
+    },
+    "white balance": {
+        "white balancing": 4,
+        "white balance modes": 5
+    },
+    "ae bracket": {
+        "exposure bracketing": 1
+    },
+    "exposure lock": {
+        "af lock": 1
+    },
+    "light metering system": {
+        "exposure metering system": 1
+    },
+    "light metering mode": {
+        "exposure modes": 1,
+        "metering": 1
+    },
+    "other sellers": {
+        "continuous shooting speed": 3
+    },
+    "intelligent zoom": {
+        "digital zoom": 4
+    },
+    "light metering": {
+        "metering method": 6,
+        "metering modes": 1,
+        "metering": 2
+    },
+    "focus distance": {
+        "color": 1
+    },
+    "maximum diopter adjustment": {
+        "focal length multiplier": 1
+    },
+    "maximum expandable iso sensitivity": {
+        "iso rating": 2,
+        "other features": 1
+    },
+    "other features": {
+        "maximum expandable iso sensitivity": 1
+    },
+    "view magnification": {
+        "continuous shooting speed": 1
+    },
+    "connectivity system req": {
+        "usb": 6,
+        "hdmi": 1
+    },
+    "speaker": {
+        "microphone": 2
+    },
+    "continuous shooting jpeg": {
+        "continuous shooting raw": 6
+    },
+    "continuous shooting raw": {
+        "continuous shooting jpeg": 6
+    },
+    "audio formats supported": {
+        "audio formats": 3
+    },
+    "total camera resolution": {
+        "total megapixels": 3
+    },
+    "effective pixel": {
+        "total pixel": 10
+    },
+    "total pixel": {
+        "effective pixel": 10
+    },
+    "iso equivalent": {
+        "light sensitivity iso": 3
+    },
+    "compensation": {
+        "flash compensation": 1
+    },
+    "media": {
+        "compatible memory cards": 6
+    },
+    "catalog number": {
+        "upc": 2,
+        "mpn": 2,
+        "part number": 2
+    },
+    "iso speed": {
+        "iso max": 1
+    },
+    "exp adj range ev": {
+        "exposure control": 1
+    },
+    "steadyshot": {
+        "image stabilization": 1
+    },
+    "effective picture resolution": {
+        "megapixels": 2,
+        "pixel gross": 4,
+        "effective pixels": 1
+    },
+    "minimum focal length": {
+        "width": 1
+    },
+    "usb port": {
+        "usb": 2
+    },
+    "brightness control": {
+        "brightness adjustment": 1,
+        "brightness setting": 3
+    },
+    "imaging processor": {
+        "image processor": 7,
+        "processor": 1
+    },
+    "focal length 35mm conversion still image 43": {
+        "35mm equivalent": 3,
+        "max focal length": 2,
+        "focal length equivalent to 35mm": 1,
+        "focal length": 1
+    },
+    "audio system": {
+        "builtin microphone": 3,
+        "microphone": 1
+    },
+    "hdmi connector type": {
+        "macro mode": 4
+    },
+    "brightness setting": {
+        "brightness adjustment": 3,
+        "brightness control": 3
+    },
+    "burst interval minimum": {
+        "burst speed maximum": 2,
+        "shooting time lag": 1
+    },
+    "burst speed maximum": {
+        "burst interval minimum": 2
+    },
+    "number": {
+        "aperture range": 3
+    },
+    "gross pixels": {
+        "effective pixels": 5,
+        "still image max effective resolution": 1
+    },
+    "number dots": {
+        "image display resolution": 8,
+        "screen resolution": 1,
+        "screen resolution pixels": 8
+    },
+    "optical zoom during movie recording": {
+        "optical zoom": 2
+    },
+    "shutter release time lag": {
+        "startup time": 4
+    },
+    "usb charge": {
+        "usb power supply": 4
+    },
+    "usb power supply": {
+        "usb charge": 4
+    },
+    "weight battery memory stick": {
+        "weight body only": 16
+    },
+    "macro focusing range tele": {
+        "focal length wide": 2
+    },
+    "clear image zoom": {
+        "digital zoom": 7
+    },
+    "auto mode focusing range tele": {
+        "lens wide mm": 2
+    },
+    "pixel gross": {
+        "effective picture resolution": 4,
+        "total pixels": 1
+    },
+    "recycling time": {
+        "startup time": 1
+    },
+    "flash mode": {
+        "flash modes": 3
+    },
+    "sdxc memory card": {
+        "sdhc memory card": 14
+    },
+    "sdhc memory card": {
+        "sdxc memory card": 14
+    },
+    "ae lockexposure lock": {
+        "ae lock": 1
+    },
+    "interface connection": {
+        "cables included": 3
+    },
+    "cables included": {
+        "interface connection": 3
+    },
+    "usb connector type": {
+        "connector type": 2
+    },
+    "shooting time lag": {
+        "burst interval minimum": 1,
+        "startup time": 5
+    },
+    "focus range iauto": {
+        "focus range program auto": 10
+    },
+    "focus range program auto": {
+        "focus range iauto": 10
+    },
+    "still image mode": {
+        "image format": 1,
+        "file formats": 1
+    },
+    "image sensor size0": {
+        "sensor size": 1
+    },
+    "imaging sensor": {
+        "sensor typesize": 1
+    },
+    "sweep panorama": {
+        "recording functions": 2
+    },
+    "recording format": {
+        "still image format": 3
+    },
+    "upgradable memory": {
+        "inbuilt memory": 1
+    },
+    "maximum magnification": {
+        "magnification": 1
+    },
+    "movie": {
+        "video format": 2
+    },
+    "iso sensitivity setting": {
+        "iso": 1
+    },
+    "power consumption in operation": {
+        "weight body only": 1
+    },
+    "still image max effective resolution": {
+        "gross pixels": 1,
+        "max resolution": 1
+    },
+    "image stabilizer system": {
+        "image stabilization": 4
+    },
+    "autofocus system type": {
+        "auto focus": 3
+    },
+    "operating temperature range": {
+        "operatingstorage temperature": 2
+    },
+    "optical zoom range": {
+        "optical zoom": 1
+    },
+    "image resolution": {
+        "megapixels": 6
+    },
+    "text attribute": {
+        "megapixels": 3
+    },
+    "optical sensor resolution": {
+        "sensor resolution": 8
+    },
+    "audio input type": {
+        "microphone type": 1
+    },
+    "normalizednumber image sensor pixels": {
+        "megapixels": 3
+    },
+    "focus range": {
+        "height": 2
+    },
+    "video capture format": {
+        "image format": 2
+    },
+    "mount": {
+        "lens mount": 2
+    },
+    "delete image": {
+        "pictbridge support": 4
+    },
+    "pictbridge support": {
+        "delete image": 4
+    },
+    "included software": {
+        "software included": 2
+    },
+    "audio format": {
+        "audio formats": 1
+    },
+    "microphonespeaker": {
+        "microphone": 1
+    }
+}
